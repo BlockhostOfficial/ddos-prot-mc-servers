@@ -11,7 +11,7 @@ This guide is for those who need to protect their home server from DDoSes or Het
 ### North America
 - TCPShield - Same as Europe but their servers are in Canada - Beauharnois, Quebec
 - BuyVM - Same pricing as Europe but you have more locations to choose from than OVH/TCPShield : Miami, New York, Las Vegas
-- Bloom.host - you can host your oroxy server there, it's Cloudflare Magic Transit and they have Texas, Virginia and California locations (colocation, not reselling)
+- Bloom.host - you can host your proxy server there, it's Cloudflare Magic Transit and they have Texas, Virginia and California locations (colocation, not reselling)
 - OVH - same as europe
 
 ### Australia
