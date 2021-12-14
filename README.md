@@ -33,4 +33,6 @@ This guide is for those who need to protect their home server from DDoSes or Het
 - Lower view distance
 - set compression-level to 512 in your velocity config, this will increase cpu usage at the cost of lower bandwidth usage (if you run without a proxy, set it in server.properties, but if you do run with a proxy, set it to -1 on all of your paper servers)
 
-my discord: qbasty#0001
+
+## Contact
+Discord: qbasty#0001
