@@ -1,13 +1,12 @@
 # DDoS Protection for your Minecraft Server / Network!
 
-I'll be actively updating this guide
-This guide is for those who need to protect their home server from DDoSes or Hetzner/OVH ddos protection is not good enough for you.
+This guide is for those who need to protect their home server from DDoSes or Hetzner/OVH ddos protection is not good enough for you. If I'm wrong about something or something is missing, contact me on discord.
 
 ### Europe
 - TCPShield - Free plan has 1TB Bandwidth, it's a really great option with servers in France and Germany but it might be in not everyone's budget. Geyser (UDP) ddos protection available only with the paid plans.
 - BuyVM - Starting at 6.5 USD a month but I would recommend at least the 2048 SLICE (10 USD, 3 USD is for the ddos protected IP). I'll be soon writing a guide about how to configure a simple nginx proxy for this. They have servers in Luxembourg, around ~10-15ms to hetzner. Bedrock ddos protection also available (UDP).
 - Hetzner - (dedicated servers) should be good in most cases, if you have issues with it, kindly ask hetzner to change your ip and switch to one of the above mentioned options
-- OVH - (dedicated servers), they have ddos protection better than hetzner. TCPShield is just a network of OVH Servers; OVH VPS is another story ;). Internal attacks might be an issue.
+- OVH - (dedicated servers), they have ddos protection better than hetzner. TCPShield is just a network of OVH Servers; OVH VPS is another story ;). Internal attacks might be an issue. I'm pretty sure the GAME servers have best DDoS Protection for minecraft.
 
 ### North America
 - TCPShield - Same as Europe but their servers are in Canada - Beauharnois, Quebec
