@@ -26,4 +26,8 @@ https://mcshield.com - CloudFlare spectrum, costs 10$ USD a month, I'll need to 
 Cloudflare - if you have the money, go for it
 OVH - ovh ddos protection is very good in most of the cases, I'll update more about them soon
 
+## Lowering the bandwidth usage
+- Lower view distance
+- set compression-level to 512 in your velocity config, this will increase cpu usage at the cost of lower bandwidth usage (if you run without a proxy, set it there, but if you do, set it to -1 on all of your paper servers)
+
 my discord: qbasty#0001
