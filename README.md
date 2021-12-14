@@ -22,7 +22,7 @@ This guide is for those who need to protect their home server from DDoSes or Het
 - Nothing really at the moment, if you have to choose between OVH and PhoenixNAP, get ovh as their ddos protection is better there
 
 ### Large networks
-- Tempest.net - same ddos protection as BuyVM but it can handle MUCH more traffic (10 Gbit Port Speed), you might aswell just host your server on their dedicated server unless you have a huge network and you just need ddos protection
+- Tempest.net - same ddos protection as BuyVM but it can handle MUCH more traffic (10 Gbit Port Speed), you might aswell just host your server on their dedicated server unless you have a huge network and you just need ddos protection. Their locations: https://tempest.net/network.
 - Cloudflare - if you have the money, go for it, hypixel uses cloudflare
 
 ### Other
