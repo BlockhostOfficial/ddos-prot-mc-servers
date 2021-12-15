@@ -41,7 +41,7 @@ Note for BuyVM: Head above to learn about their connection limits.
 - [TCPShield](https://tcpshield.com) - Same pricing and features as Europe, their servers are in Canada - Beauharnois, Quebec.
 
 - [MCShield](https://mcshield.com) - Same prices and features like in Europe. Locations: Ashburn, Chicago, Dallas, LA, NY, Seattle, San Francisco, Phoenix, Miami
-- 
+
 - [BuyVM](https://buyvm.net) (VPS Hosting) - Same prices as in Europe but you have more locations to choose from: Miami, New York and Las Vegas. The NY SLICEs are around 10-15ms away from OVH Canada.
 
 - [CosmicGuard](https://cosmicguard.com) - Same pricing and features like Europe but you have more servers available: Dallas, LA, Reston and Secaucus.
@@ -53,15 +53,18 @@ Note for BuyVM: Head above to learn about their connection limits.
 # Australia
 - [Ausguard](https://discord.gg/TQwezt4Sq5) - A brand new DDoS Protection for Australia/New Zealand. Really cheap and might be an option for you. Supports GeyserMC (UDP).
 
+- [MCShield](https://mcshield.com) - Another option but no Bedrock (UDP) filters.
+
 # Singapore/ Asia
-- Nothing really at the moment, OVH has better DDoS Protection in Singapore than PhoenixNAP.
+- If you have choose between OVH and PhoenixNAP, choose OVH for better DDoS Protection out of the box
+- [MCShield](https://mcshield.com) - The only option for Asia at the moment?
 
 # Large networks
-- Tempest.net - All servers come with a 10Gbit Port Speed which can handle A LOT of traffic and Path.net DDoS Protection (The same as BuyVM). They also have a lot of locations across 4 continents.
+- Tempest.net - All servers come with a 10Gbit Port Speed which can handle A LOT of traffic and Path.net DDoS Protection (The same as BuyVM). They also have a lot of [locations](https://tempest.net/network) across 4 continents.
 
 - Cloudflare - The most expensive option but 42Tbit protection isn't cheap. Used by Hypixel.
 
-## Lowering the bandwidth usage
+# Lowering the bandwidth usage
 - Lower view distance
 - set compression-level to 512 in your velocity config, this will increase cpu usage at the cost of lower bandwidth usage (if you run without a proxy, set it in server.properties, but if you do run with a proxy, set it to -1 on all of your paper servers)
 - block some packets like 2b2t does in their queue (more on this soon)
