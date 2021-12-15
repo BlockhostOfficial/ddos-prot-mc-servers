@@ -42,9 +42,9 @@ Note for BuyVM: Learn more [here](https://github.com/qbasty/ddos-prot-mc-servers
 
 - [MCShield](https://mcshield.com) - Same prices and features like in Europe. Locations: Ashburn, Chicago, Dallas, LA, NY, Seattle, San Francisco, Phoenix, Miami
 
-- [BuyVM](https://buyvm.net) (VPS Hosting) - Same prices as in Europe but you have more locations to choose from: Miami, New York and Las Vegas. The NY SLICEs are around 10-15ms away from OVH Canada.
-
 - [CosmicGuard](https://cosmicguard.com) - Same pricing and features like Europe but you have more servers available: Dallas, LA, Reston and Secaucus.
+
+- [BuyVM](https://buyvm.net) (VPS Hosting) - Same prices as in Europe but you have more locations to choose from: Miami, New York and Las Vegas. The NY SLICEs are around 10-15ms away from OVH Canada.
 
 - [Blockhost](https://blockhost.net) (Minecraft Server Hosting) - My own hosting company, same protection as BuyVM/Tempest(Path.net). Locations: New York. We also have Geyser (UDP) filters.
 
