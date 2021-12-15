@@ -5,6 +5,12 @@ This guide is for those who need to protect their home server from DDoSes or Het
 ### Europe
 - [TCPShield](https://tcpshield.com) - The most popular DDoS Protection for minecraft servers. TCPShield's servers are in France and Germany. Here is a table comparing all the plans quickly: 
 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 | Plan | Price | Bandwidth Limit | Bedrock Support (UDP) | Networks (How many different servers) | Domains |
 | --- | --- |
 | Free | 0$ / month | 1TB | No | 1 | 3 |
