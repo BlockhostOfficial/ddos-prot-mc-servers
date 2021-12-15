@@ -24,7 +24,7 @@ This guide is for those who need to protect their home/vps/dedicated/shared serv
 
 Quick Summary for those on a budget:
 | Company | Plan Name | Price | Bandwidth Limit | GeyserMC Support (UDP) | Networks (How many different servers) | Domains | Player Limit | Recommened Player Limit | Protection Capacity |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [TCPShield](https://tcpshield.com) | Free | 0$ / month | 1TB | No | 1 | 3 | None | Not sure :/ | Layer 4 16Tbps, Layer 7 Unlimited |
 | [TCPShield](https://tcpshield.com) | Pro | 25$ / month | 2TB | No | 1 | 10 | None | not sure :/ |Layer 4 16Tbps, Layer 7 Unlimited |
 | [MCShield](https://mcshield.com) | None | 10$ / month | Unlimited | No | Unknown | Unknown | None | None! | 42Tbps |
