@@ -29,7 +29,7 @@ This guide is for those who need to protect their home server from DDoSes or Het
 - Cloudflare - if you have the money, go for it, hypixel uses cloudflare
 
 ### Other
-- https://mcshield.com - CloudFlare spectrum, costs 10$ USD a month, I'll need to learn more about them. Edit: for that 10 usd you get unlimited bandwidth :O
+- https://mcshield.com - CloudFlare spectrum, costs 10$ USD a month, I'll need to learn more about them. Edit: for that 10 usd you get unlimited bandwidth :O No GeyserMC(UDP) Protection
 
 ## Lowering the bandwidth usage
 - Lower view distance
