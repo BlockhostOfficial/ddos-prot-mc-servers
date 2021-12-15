@@ -7,6 +7,7 @@ This guide is for those who need to protect their home server from DDoSes or Het
 - BuyVM - Starting at 6.5 USD a month but I would recommend at least the 2048 SLICE (10 USD, 3 USD is for the ddos protected IP). I'll be soon writing a guide about how to configure a simple nginx proxy for this. They have servers in Luxembourg, around ~10-15ms to hetzner. Bedrock ddos protection also available (UDP).
 - Hetzner - (dedicated servers) should be good in most cases, if you have issues with it, kindly ask hetzner to change your ip and switch to one of the above mentioned options
 - OVH - (dedicated servers), they have ddos protection better than hetzner. TCPShield is just a network of OVH Servers; OVH VPS is another story ;). Internal attacks might be an issue. I'm pretty sure the GAME servers have best DDoS Protection for minecraft.
+- CosmicGuard - UK and Netherlands location, there isn't an options for unlimited bandwidth
 
 ### North America
 - TCPShield - Same as Europe but their servers are in Canada - Beauharnois, Quebec
