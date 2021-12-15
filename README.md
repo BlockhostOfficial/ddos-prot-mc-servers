@@ -60,9 +60,9 @@ Note for BuyVM: Learn more here
 - [MCShield](https://mcshield.com) - The only option for Asia at the moment?
 
 # Large networks
-- Tempest.net - All servers come with a 10Gbit Port Speed which can handle A LOT of traffic and Path.net DDoS Protection (The same as BuyVM). They also have a lot of [locations](https://tempest.net/network) across 4 continents.
+- [Tempest](https://tempest.net - All servers come with a 10Gbit Port Speed which can handle A LOT of traffic and Path.net DDoS Protection (The same as BuyVM). They also have a lot of [locations](https://tempest.net/network) across 4 continents.
 
-- Cloudflare - The most expensive option but 42Tbit protection isn't cheap. Used by Hypixel.
+- [Cloudflare](https://cloudflare.com - The most expensive option but 42Tbit protection isn't cheap. Used by Hypixel.
 
 # Lowering the bandwidth usage
 - Lower view distance
