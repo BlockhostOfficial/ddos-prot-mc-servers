@@ -35,6 +35,7 @@ Quick Summary for those on a budget:
 | [CosmicGuard](https://cosmicguard.com) | 25 players AVG | 24$ / month | You pay for what you use | Yes | Unknown | Unknown | 25 avg players, 39 peak | 1 Tbps I think? |
 
 Note for TCPShield: There isn't a player limit but you will quickly run out of bandwidth with 100+ players.
+
 Note for BuyVM: Learn more [here](https://github.com/qbasty/ddos-prot-mc-servers#buyvm) before buying it.
 
 # North America
@@ -70,7 +71,7 @@ Note for BuyVM: Learn more [here](https://github.com/qbasty/ddos-prot-mc-servers
 - [Cloudflare](https://cloudflare.com) - The most expensive option but 42Tbit protection isn't cheap. Used by Hypixel.
 
 # BuyVM
-BuyVM is a VPS provider, this isn't a fancy panel like TCPShield. You will have to configure a nginx proxy to protect your server. But before that some more info about them:
+BuyVM is a VPS provider, this isn't a fancy panel like TCPShield. You will have to configure a nginx proxy to protect your server. But before that, some info here:
 
 ### Which SLICE?
 I wouldn't recommend the 512 SLICE at all as it's just not enough power. 1024 is the bare minimum, I recommend at least the 2048 SLICE, 4096 will run pretty good.
