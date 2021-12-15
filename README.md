@@ -1,8 +1,10 @@
 # DDoS Protection for your Minecraft Server / Network!
 
-This guide is for those who need to protect their home server from DDoSes or Hetzner/OVH ddos protection is not good enough for you. If I'm wrong about something or something is missing, contact me on discord.
 
-### Europe
+This guide is for those who need to protect their home/vps/dedicated/shared server from DDoSes. If I'm wrong about something or something is missing, contact me on discord - qbasty#0001.
+
+
+# Europe
 - [TCPShield](https://tcpshield.com) - The most popular DDoS Protection for minecraft servers. TCPShield's servers are in France and Germany. Here is a table comparing all the plans quickly: 
 
 | Plan  | Price  | Bandwidth Limit  | Bedrock Support (UDP)  | Networks (How many different servers)  | Domains  |
@@ -11,9 +13,10 @@ This guide is for those who need to protect their home server from DDoSes or Het
 | Pro  | 25$ / month  | 2TB  | :x:  | 1  | 10  |
 | Premium  | 100$ / month  | Unlimited  | :white_check_mark:  | 3  | 25  |
 | Enterprise  | 250$ / month  | Unlimited  | :white_check_mark:  | 10  | Unlimited  |
+
+- [CosmicGuard](https://cosmicguard.com) - Locations: UK and Amsterdam. There isn't an unlimited bandwidth plan but their protection is known for being really good. I really like their pricing since you pay for what you actually use.
+- [MCShield](https://mcshield.com) - 10$ / month. Unlimited bandwidth. No Geyser (UDP) support at the moment. Locations: Amsterdam, Germany, UK, France.
 - [BuyVM](https://buyvm.net) (VPS Hosting) - Starting at 6.5 USD a month but I would recommend at least the 2048 SLICE (10 USD, 3 USD is for the ddos protected IP). I'll be soon writing a guide about how to configure a simple nginx proxy for this. They have servers in Luxembourg, around ~10-15ms to hetzner. GeyserMC (UDP) filters also available. Note: 512, 1024 and 2048 have a shared 100mbps connection, 4096 has dedicated 100mbps, 8192 has 200mbps, etc. You can use as high as 1gbps for some time if the network isn't full. I was able to get ~400 bots online on my 2048 SLICE before the connections started to get blocked. The protection of DDoS Protected IPs is Path.net.
-- [CosmicGuard](https://cosmicguard.com) - Locations in EU: UK and Amsterdam. There isn't an unlimited bandwidth plan but their protection is known for being really good. I really like their pricing since you pay for what you actually use.
-- [MCShield](https://mcshield.com) - 10$ / month. Unlimited bandwidth. 
 - [Hetzner](https://hetzner.com) (Dedicated Server Hosting) - Their filters are good enough for some people. If that's not the case for you, request an IP change and switch to one of the above mentioned DDoS Protection providers.
 - [Blockhost](https://blockhost.net) (Minecraft Server Hosting) - My own hosting company, same protection as BuyVM/Tempest(Path.net). Locations: Germany and New York. Supports GeyserMC(UDP).
 - [OVH](https://www.ovhcloud.com/en/) (Dedicated Server Hosting) - TCPShield is a custom network based on OVH servers so it should be good in most cases. Internal attacks are an issue for some people. The GAME range has the best DDoS Protection for Minecraft. (This doesn't apply to the VPS)
