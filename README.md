@@ -28,7 +28,7 @@ Quick Summary for those on a budget:
 | [TCPShield](https://tcpshield.com) | Free | 0$ / month | 1TB | No | 1 | 3 | None | Layer 4 16Tbps, Layer 7 Unlimited |
 | [TCPShield](https://tcpshield.com) | Pro | 25$ / month | 2TB | No | 1 | 10 | None | Layer 4 16Tbps, Layer 7 Unlimited |
 | [MCShield](https://mcshield.com) | None | 10$ / month | Unlimited | No | Unknown | Unknown | None | 42Tbps |
-| [BuyVM](https://buyvm.net) | SLICE 1024 | 6.5$ / month | Unlimited | Yes | Unlimited | Unlimited | No but I recc. max 50 players | 6.5Tbps |
+| [BuyVM](https://buyvm.net) | SLICE 1024 | 6.5$ / month | Unlimited | Yes | Unlimited | Unlimited | No but I recc. max 100 players | 6.5Tbps |
 | [BuyVM](https://buyvm.net) | SLICE 2048 | 10$ / month | Unlimited  | Yes | Unlimited | Unlimited | No but I recc. max 200 players | 6.5Tbps |
 | [BuyVM](https://buyvm.net) | SLICE 4096 | 17$ / month | Unlimited | Yes | Unlimited | Unlimited | No but I recc. max 500 players | 6.5Tbps |
 | [CosmicGuard](https://cosmicguard.com) | 10 players AVG | 9$ / month | You pay for what you use | Yes | Unknown | Unknown | 10 avg players, 13 peak | 1 Tbps I think? |
