@@ -7,13 +7,14 @@ This guide is for those who need to protect their home server from DDoSes or Het
 - BuyVM - Starting at 6.5 USD a month but I would recommend at least the 2048 SLICE (10 USD, 3 USD is for the ddos protected IP). I'll be soon writing a guide about how to configure a simple nginx proxy for this. They have servers in Luxembourg, around ~10-15ms to hetzner. Bedrock ddos protection also available (UDP).
 - Hetzner - (dedicated servers) should be good in most cases, if you have issues with it, kindly ask hetzner to change your ip and switch to one of the above mentioned options
 - OVH - (dedicated servers), they have ddos protection better than hetzner. TCPShield is just a network of OVH Servers; OVH VPS is another story ;). Internal attacks might be an issue. I'm pretty sure the GAME servers have best DDoS Protection for minecraft.
-- CosmicGuard - UK and Netherlands location, there isn't an options for unlimited bandwidth
+- CosmicGuard - UK and Netherlands location, there isn't an options for unlimited bandwidth but their protection is really strong
 
 ### North America
 - TCPShield - Same as Europe but their servers are in Canada - Beauharnois, Quebec
 - BuyVM - Same pricing as Europe but you have more locations to choose from than OVH/TCPShield : Miami, New York, Las Vegas
 - Bloom.host - you can host your proxy server there, it's Cloudflare Magic Transit and they have Texas, Virginia and California locations (colocation, not reselling)
 - OVH - same as europe
+- CosmicGuard - Dallas, LA, Reston, Secaucus
 
 ### Australia
 - Ausguard - https://discord.gg/TQwezt4Sq5, it's really cheap and might be an option for you. Also supports UDP (Bedrock).
@@ -27,7 +28,6 @@ This guide is for those who need to protect their home server from DDoSes or Het
 - Cloudflare - if you have the money, go for it, hypixel uses cloudflare
 
 ### Other
-- https://cosmicguard.com - I'll add this to the list soon
 - https://mcshield.com - CloudFlare spectrum, costs 10$ USD a month, I'll need to learn more about them
 
 ## Lowering the bandwidth usage
