@@ -25,17 +25,17 @@ This guide is for those who need to protect their home/vps/dedicated/shared serv
 Quick Summary for those on a budget:
 | Company | Plan Name | Price | Bandwidth Limit | GeyserMC Support (UDP) | Networks (How many different servers) | Domains | Player Limit | Protection Capacity | Limits |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [TCPShield](https://tcpshield.com) | Free | 0$ / month | 1TB | No | 1 | 3 | None | Layer 4 16Tbps, Layer 7 Unlimited | :x: |
-| [TCPShield](https://tcpshield.com) | Pro | 25$ / month | 2TB | No | 1 | 10 | None | Layer 4 16Tbps, Layer 7 Unlimited | :x: |
-| [MCShield](https://mcshield.com) | None | 10$ / month | Unlimited | No | Unknown | Unknown | None | 42Tbps | :x: |
-| [BuyVM](https://buyvm.net) | SLICE 1024 | 6.5$ / month | Unlimited | Yes | Unlimited | Unlimited | None, but I wouldn't suggest more than 50 players | 6.5Tbps | Shared 100Mbit/s connection, burst up to 1Gbit/s |
-| [BuyVM](https://buyvm.net) | SLICE 2048 | 10$ / month | Unlimited  | Yes | Unlimited | Unlimited | None, but I wouldn't suggest more than 200 players | 6.5Tbps | Shared 100Mbit/s connection, burst up to 1Gbit/s |
-| [BuyVM](https://buyvm.net) | SLICE 4096 | 17$ / month | Unlimited | Yes | Unlimited | Unlimited | None, but I wouldn't suggest more than 500 players | 6.5Tbps | Dedicated 100Mbit/s connection, burst up to 1Gbit/s |
-| [CosmicGuard](https://cosmicguard.com) | 10 players AVG | 9$ / month | You pay for what you use | Yes | Unknown | Unknown | 10 avg players, 13 peak | 1 Tbps I think? | :x: |
-| [CosmicGuard](https://cosmicguard.com) | 25 players AVG | 24$ / month | You pay for what you use | Yes | Unknown | Unknown | 25 avg players, 39 peak | 1 Tbps I think? | :x: |
+| [TCPShield](https://tcpshield.com) | Free | 0$ / month | 1TB | No | 1 | 3 | None | Layer 4 16Tbps, Layer 7 Unlimited |
+| [TCPShield](https://tcpshield.com) | Pro | 25$ / month | 2TB | No | 1 | 10 | None | Layer 4 16Tbps, Layer 7 Unlimited |
+| [MCShield](https://mcshield.com) | None | 10$ / month | Unlimited | No | Unknown | Unknown | None | 42Tbps |
+| [BuyVM](https://buyvm.net) | SLICE 1024 | 6.5$ / month | Unlimited | Yes | Unlimited | Unlimited | No but I recc. max 50 players | 6.5Tbps |
+| [BuyVM](https://buyvm.net) | SLICE 2048 | 10$ / month | Unlimited  | Yes | Unlimited | Unlimited | No but I recc. max 200 players | 6.5Tbps |
+| [BuyVM](https://buyvm.net) | SLICE 4096 | 17$ / month | Unlimited | Yes | Unlimited | Unlimited | No but I recc. max 500 players | 6.5Tbps |
+| [CosmicGuard](https://cosmicguard.com) | 10 players AVG | 9$ / month | You pay for what you use | Yes | Unknown | Unknown | 10 avg players, 13 peak | 1 Tbps I think? |
+| [CosmicGuard](https://cosmicguard.com) | 25 players AVG | 24$ / month | You pay for what you use | Yes | Unknown | Unknown | 25 avg players, 39 peak | 1 Tbps I think? |
 
 Note for TCPShield: There isn't a player limit but you will quickly run out of bandwidth with 100+ players.
-Note for BuyVM: Head above to learn about their connection limits.
+Note for BuyVM: Learn more here
 
 # North America
 - [TCPShield](https://tcpshield.com) - Same pricing and features as Europe, their servers are in Canada - Beauharnois, Quebec.
