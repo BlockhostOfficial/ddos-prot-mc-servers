@@ -3,20 +3,23 @@
 
 This guide is for those who need to protect their home/vps/dedicated/shared server from DDoSes. If I'm wrong about something or something is missing, contact me on discord - qbasty#0001.
 
+# Do I need DDoS Protection?
+Not everyone needs DDoS Protection, your server for 2 friends doesn't, even bigger server with 50 players might not need it. You probably shouldn't worry until... yea, it happens. 
+
+# How to check if my host has ddos protection?
+Sadly, almost every dedicated/vps or even shared server hosting says that they have great DDoS Protection. Let's check that! If you don't know the IP of your server because you just have a subdomain, make sure your server is on and use https://mcsrvstat.us to get the IP of your server (Show Debug Info). Once you have the IP, head to https://ipinfo.io and enter the IP there. Look at ORG and Name, if you see something that wasn't mentioned in this guide, your host probably has none or barely any custom ddos protection.
+
+# DDoS Protection out of the box
+
 
 # Europe
-- [TCPShield](https://tcpshield.com) - The most popular DDoS Protection for Minecraft servers and the only one on this list which is free. TCPShield's servers are in France and Germany. Here is a table comparing all the plans quickly: 
+Europe has options starting from 0$ a month to hundreds, it all depends on your needs. Click on the name to learn more about the pros of cons of each option.
 
-| Plan  | Price  | Bandwidth Limit  | Bedrock Support (UDP)  | Networks (How many different servers)  | Domains  |
-| --- | --- | --- | --- | --- | --- |
-| Free  | 0$ / month  | 1TB  | :x:  | 1  | 3  |
-| Pro  | 25$ / month  | 2TB  | :x:  | 1  | 10  |
-| Premium  | 100$ / month  | Unlimited  | :white_check_mark:  | 3  | 25  |
-| Enterprise  | 250$ / month  | Unlimited  | :white_check_mark:  | 10  | Unlimited  |
+- [TCPShield](https://github.com/qbasty/ddos-prot-mc-servers#tcpshield) - The most known protection for minecraft servers. Locations: France & Germany. Starts at 0$ a month. Geyser support starts at 100$ a month.
 
-- [CosmicGuard](https://cosmicguard.com) - CosmicGuard's servers are in UK and Amsterdam. There isn't an unlimited bandwidth plan but their protection is used by few major servers and websites. Their pricing is different from other options since you pay for what you actually use. CosmicGuard also has Geyser (UDP) Protection.
+- [CosmicGuard](https://github.com/qbasty/ddos-prot-mc-servers#cosmicguard) - Locations: UK & Amsterdam. There isn't an unlimited bandwidth plan but their protection is used by few major servers and websites. Their pricing is different from other options since you pay for what you actually use. CosmicGuard also has Geyser protection.
 
-- [MCShield](https://mcshield.com) - MCShield is a new option for Minecraft Servers and at the moment it looks REALLY good. It costs 10$ / month. You get unlimited bandwidth (No strings attached in ToS). No Geyser (UDP) support at the moment. Their servers are in: Amsterdam, Germany, UK and France. The protection is CloudFlare Spectrum.
+- [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield) - MCShield is a new option for Minecraft Servers and at the moment it looks REALLY good. It costs 10$ / month. You get unlimited bandwidth (No strings attached in ToS). No Geyser support at the moment. Their servers are in: Amsterdam, Germany, UK and France. The protection is CloudFlare Spectrum.
 
 - [BuyVM](https://buyvm.net) (VPS Hosting) - Starting at 6.5 USD a month but I would recommend at least the 2048 SLICE (10 USD, 3 USD is for the ddos protected IP). Locations: Luxembourg, 9 to 15ms to Hetzner. Geyser (UDP) filters are also available. The protection  is Path.net. 1024 and 2048 SLICEs get a shared 100Mbit/s connection, 4096 SLICE gets a dedicated 100Mbit/s connection, 8192 SLICE gets a dedicated 200Mbit/s connection, etc. You are allowed to burst up to 1Gbit/s for some time during the times of lower network usage. I was able to get ~400 bots online on my 2048 SLICE before the connections started to get blocked. Guide coming soon on how to set this up.
 
@@ -36,10 +39,8 @@ Quick Summary for those on a budget:
 
 Note for TCPShield: There isn't a player limit but you will quickly run out of bandwidth with 100+ players.
 
-Note for BuyVM: Learn more [here](https://github.com/qbasty/ddos-prot-mc-servers#buyvm) before buying it.
-
 # North America
-- [TCPShield](https://tcpshield.com) - Same pricing and features as Europe, their servers are in Canada - Beauharnois, Quebec.
+- [TCPShield](https://github.com/qbasty/ddos-prot-mc-servers#tcpshield) - The most known protection for minecraft servers. Locations: Canada. Starts at 0$ a month. Geyser support starts at 100$ a month.
 
 - [MCShield](https://mcshield.com) - Same prices and features like in Europe. Locations: Ashburn, Chicago, Dallas, LA, NY, Seattle, San Francisco, Phoenix, Miami
 
@@ -69,6 +70,75 @@ Note for BuyVM: Learn more [here](https://github.com/qbasty/ddos-prot-mc-servers
 - [Tempest](https://tempest.net) - All servers come with a 10Gbit Port Speed which can handle A LOT of traffic and Path.net DDoS Protection (The same as BuyVM). They also have a lot of [locations](https://tempest.net/network) across 4 continents. It's expensive but it's really good.
 
 - [Cloudflare](https://cloudflare.com) - The most expensive option but 42Tbit protection isn't cheap. Used by Hypixel.
+
+# TCPShield
+
+Extremely popular Minecraft Server DDoS Protection operational since 2015. Used by many large networks.
+
+Website: https://tcpshield.com
+Setup Guide: https://docs.tcpshield.com/panel/setup-process
+
+Locations: France (Gravelines), Germany (Frankfurt), Canada (Beauharnois, Quebec)
+
+Pros:
+- Free Plan
+- Great 16Tbps Layer 4 & Unlimited Layer 7 Protection
+- Running since 2015, has a great reputation
+- [Cloudflare Spectrum](https://docs.tcpshield.com/cloudflare-network) to reduce latency
+- TCPShield Plugin to hide your server IP
+- Great uptime
+
+Cons:
+- Expensive compared to the other alternatives
+- Geyser Support starts at 100$ / month
+- No Asia/Africa/South America/Australia locations
+
+For dedicated servers / vps:
+
+If you don't have a hosting for your server yet but you are interested in getting TCPShield, here is a list of hosts that will work great with TCPShield:
+- OVH (Canada)
+- ReliableSite (New York)
+- PhoenixNAP (Ashburn)
+- SoYouStart (Canada)
+- Ready2Frag (Chicago) - Not sure about this one yet
+- HostVenom (Chicago) - Not sure about this one yet
+- Hetzner (Germany)
+- PhoenixNAP (Amsterdam)
+- OVH (Germany)
+- OVH (France)
+- SoYouStart (France)
+- SoYouStart (Germany)
+
+For home hosting:
+
+If you just want to run a server for few friends but you still want some ddos protection, TCPShield is the best option at the moment if you are in Europe/North America of course.
+
+Quickly comparing all the plans. 
+| Plan  | Price  | Bandwidth Limit  | Bedrock Support (UDP)  | Networks (How many different servers)  | Domains  | Sub accounts  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Free  | 0$ / month  | 1TB  | :x:  | 1  | 3  | :x:  |
+| Pro  | 25$ / month  | 2TB  | :x:  | 1  | 10  | :x:  |
+| Premium  | 100$ / month  | Unlimited  | :white_check_mark:  | 3  | 25  | :white_check_mark:  |
+| Enterprise  | 250$ / month  | Unlimited  | :white_check_mark:  | 10  | Unlimited  | :white_check_mark:  |
+
+Note: There are MANY more features for each plan, learn more about them [here](https://tcpshield.com/plans).
+
+# MCShield
+
+Website: https://mcshield.com
+
+Brand new option made by MCPROHOSTING. It came out on 20th of October. The protection is CloudFlare Spectrum (42 Tbps) and you there is only one plan which costs 10 USD a month. You get unlimited bandwidth, access to 22 [locations](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html) on 6 continents and there is also 7 day money back guarantee. 
+
+Pros:
+- 10 USD a month for unlimited bandwidth
+- CloudFlare Spectrum 42Tbps Protection
+- 22 locations on 6 continents
+
+Cons:
+- Brand new
+- Run by a hosting company that runs your server on a Dual Xeon E5-2600 CPU
+- No Geyser Support
+- Lack of information on the website
 
 # BuyVM
 BuyVM is a VPS provider, this isn't a fancy panel like TCPShield. You will have to configure a nginx proxy to protect your server. But before that, some info here:
