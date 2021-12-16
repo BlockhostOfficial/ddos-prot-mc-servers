@@ -205,6 +205,12 @@ Locations you get: Sydney, Melbourne, Perth, Brisbane, Adelaide, Auckland (New Z
 
 It costs 10$ / month and you get unlimited bandwidth!
 
+### For dedicated servers:
+You could protect your OVH dedicated server
+
+### For home hosting:
+It's cheap and more locations in Australia than MCShield
+
 ### Pros:
 - Many locations in this region
 - Great load balancing (I talked to the dev)
@@ -216,10 +222,10 @@ It costs 10$ / month and you get unlimited bandwidth!
 
 # For large networks
 
-TCPShield - the 100 or 250 USD plan a month is what you would be looking at. Extremely fast support, load balancing, great panel and CloudFlare Spectrum for smaller ping if needed. Used by MrBeast Event Server, LTT, PebbleHost, MineSuperior, Vortex, Lunar and many others - https://tcpshield.com/#clients
-CosmicGuard - you might have to do some tricks to save bandwidth and lower the costs. Used by 2b2t, Tebex, Chess.com, Wynncraft, Cosmic.
-Tempest - Dedicated Servers with 10Gbit port and 6.5Tbps Path.net DDoS Protection.
-CloudFlare - The most expensive but 42Tbit DDoS Protection isn't cheap. CloudFlare has many locations too. Used by Hypixel.
+- TCPShield - the 100 or 250 USD plan a month is what you would be looking at. Extremely fast support, load balancing, great panel and CloudFlare Spectrum for smaller ping if needed. Used by MrBeast Event Server, LTT, PebbleHost, MineSuperior, Vortex, Lunar and many others - https://tcpshield.com/#clients
+- CosmicGuard - you might have to do some tricks to save bandwidth and lower the costs. Used by 2b2t, Tebex, Chess.com, Wynncraft, Cosmic.
+- Tempest - Dedicated Servers with 10Gbit port and 6.5Tbps Path.net DDoS Protection.
+- CloudFlare - The most expensive but 42Tbit DDoS Protection isn't cheap. CloudFlare has many locations too. Used by Hypixel.
 
 # Lowering the bandwidth usage
 - Lower view distance
