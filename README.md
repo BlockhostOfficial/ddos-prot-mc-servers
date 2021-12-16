@@ -26,6 +26,8 @@ More soon
 # On budget
 Below you can find a list of DDoS Protection services across all continents, some of these can be used by large networks.
 
+Locations you will find: to do
+
 ## Europe
 Europe has options starting from 0$ a month to hundreds, it all depends on your needs. Click on the name to learn more about each option.
 
@@ -33,7 +35,6 @@ Europe has options starting from 0$ a month to hundreds, it all depends on your 
 - [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
 - [CosmicGuard](https://github.com/qbasty/ddos-prot-mc-servers#cosmicguard)
 - [BuyVM](https://github.com/qbasty/ddos-prot-mc-servers#buyvm) (VPS Hosting)
-- [Blockhost](https://github.com/qbasty/ddos-prot-mc-servers#blockhost) (Minecraft Server Hosting)
 
 ## North America
 North America has very similar options to Europe, but more locations are available.
@@ -42,8 +43,6 @@ North America has very similar options to Europe, but more locations are availab
 - [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
 - [CosmicGuard](https://github.com/qbasty/ddos-prot-mc-servers#cosmicguard)
 - [BuyVM](https://github.com/qbasty/ddos-prot-mc-servers#buyvm) (VPS Hosting)
-- [Blockhost](https://github.com/qbasty/ddos-prot-mc-servers#blockhost) (Minecraft Server Hosting)
-- [Bloom Hosting](https://github.com/qbasty/ddos-prot-mc-servers#bloomhost) (Minecraft Server Hosting)
 
 ## Australia / New Zealand
 Only 2 options here, there aren't many great dedicated servers for minecraft in this region.
@@ -130,10 +129,32 @@ Brand new option made by MCPROHOSTING. It came out on 20th of October. The prote
 - Lack of information on the website
 
 ### For home hosting:
-You have more locations than TCPShield.
+You have more locations than TCPShield. UK Location available.
 
 ### For dedicated servers:
 In my opinion MCShield isn't really a DDos Protection for professionals at the moment but you could give it a try, the number of locations can let you choose a server anywhere in the world.
+
+# CosmicGuad
+Used by few big networks too, but to save money, for example 2b2t disables A LOT of packets in their queue server. 
+
+Website: https://cosmicguard.com
+More info: https://www.peeringdb.com/net/21075
+
+Locations: Dallas, LA, Reston, Secaucus, Amsterdam, London and Maidenhead.
+
+### For home hosting:
+UK Location available.
+
+### For dedicated servers:
+You could protect your pebblehost dedicated server with CosmicGuard I guess?
+
+# Pros:
+- Custom built 1Tbps DDoS Protection
+- You are charged for what you actually use
+- Geyser Support
+
+# Cons:
+- Pretty expensive
 
 # BuyVM
 BuyVM is a VPS provider, this isn't a fancy panel like TCPShield. You will have to configure a nginx proxy to protect your server. But before that, some info here:
@@ -195,10 +216,10 @@ It costs 10$ / month and you get unlimited bandwidth!
 
 # For large networks
 
-TCPShield - 
-CosmicGuard - 
-Tempest - 
-CloudFlare - 
+TCPShield - the 100 or 250 USD plan a month is what you would be looking at. Extremely fast support, load balancing, great panel and CloudFlare Spectrum for smaller ping if needed. Used by MrBeast Event Server, LTT, PebbleHost, MineSuperior, Vortex, Lunar and many others - https://tcpshield.com/#clients
+CosmicGuard - you might have to do some tricks to save bandwidth and lower the costs. Used by 2b2t, Tebex, Chess.com, Wynncraft, Cosmic.
+Tempest - Dedicated Servers with 10Gbit port and 6.5Tbps Path.net DDoS Protection.
+CloudFlare - The most expensive but 42Tbit DDoS Protection isn't cheap. CloudFlare has many locations too. Used by Hypixel.
 
 # Lowering the bandwidth usage
 - Lower view distance
