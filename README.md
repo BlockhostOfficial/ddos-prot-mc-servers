@@ -149,7 +149,7 @@ UK Location available.
 You could protect your pebblehost dedicated server with CosmicGuard I guess?
 
 # Pros:
-- Custom built 1Tbps DDoS Protection
+- Custom built 1Tbps DDoS Protection (EDIT: You get null routed if the attack is 500Gb or more)
 - You are charged for what you actually use
 - Geyser Support
 
