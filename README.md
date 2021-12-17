@@ -126,8 +126,7 @@ Brand new option made by MCPROHOSTING. It came out on 20th of October. The prote
 - 22 locations on 6 continents
 
 ### Cons:
-- Brand new
-- Run by a hosting company that runs your server on a Dual Xeon E5-2600 CPU
+- Brand new and run by a hosting company that runs your server on a Dual Xeon E5-2600 CPU. I'll be doing some tests soon so maybe MCShield is actually much better than MCProHosting, who knows.
 - No Geyser Support
 - Lack of information on the website
 
