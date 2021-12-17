@@ -11,10 +11,13 @@ Sadly, almost every dedicated/vps or even shared server hosting says that they h
 
 ## DDoS Protection out of the box
 
+Very Good/Amazing:
+- Tempest - You will be able to handle few thousand players (traffic) and DDoS attacks at the same time
+- OVH - Game Range has the best protection for Minecraft. Internal attacks are an issue for some people. (Not as good as Tempest)
+
 Good/Decent:
 - Hetzner - it's enough for some people, for some it isn't. You can kindly ask for an ip change of your dedicated server if you want to get some DDoS Protection
-- OVH - Game Range has the best protection for Minecraft. Internal attacks are an issue for some people.
-- Tempest - You will be able to handle few thousand players (traffic) and DDoS attacks at the same time
+- ReliableSite
 
 Bad/Horrible:
 - OVH VPS - They can be taken down easily
