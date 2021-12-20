@@ -7,7 +7,7 @@ This guide is for those who need to protect their home/vps/dedicated/shared serv
 Not everyone needs DDoS Protection, your server for 2 friends doesn't, even bigger server with 50 players might not need it. You probably shouldn't worry until... yea, it happens. 
 
 ## How to check if my host has ddos protection?
-Sadly, almost every dedicated/vps or even shared server hosting says that they have great DDoS Protection. Let's check that! If you don't know the IP of your server because you just have a subdomain, make sure your server is on and use https://mcsrvstat.us to get the IP of your server (Show Debug Info). Once you have the IP, head to https://ipinfo.io and enter the IP there. Look at ORG and Name, if you see something that wasn't mentioned in this guide, your host probably has none or barely any custom ddos protection.
+Sadly, almost every dedicated/vps or even shared server hosting says that they have great DDoS Protection. Let's check that! If you don't know the IP of your server because you just have a subdomain, make sure your server is on and use https://mcsrvstat.us to get the IP of your server (Show Debug Info). Once you have the IP, head to https://ipinfo.io and enter the IP there. Look at ORG and Name, if you see something that wasn't mentioned in this guide, your host probably has none or barely any custom ddos protection (This is the case for MANY hosting companies, message them for more info).
 
 ## DDoS Protection out of the box
 
