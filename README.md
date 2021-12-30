@@ -1,6 +1,5 @@
 # DDoS Protection for your Minecraft Server / Network!
 
-
 This guide is for those who need to protect their home/vps/dedicated/shared server from DDoSes. If I'm wrong about something or something is missing, contact me on discord - qbasty#0001.
 
 # Do I need DDoS Protection?
@@ -24,7 +23,6 @@ Bad/Horrible:
 - PhoenixNAP
 
 More soon
-
 
 # On budget
 Below you can find a list of DDoS Protection services across all continents, some of these can be used by large networks.
@@ -69,7 +67,7 @@ Setup Guide: https://docs.tcpshield.com/panel/setup-process
 
 Locations: France (Gravelines), Germany (Frankfurt), Canada (Beauharnois, Quebec)
 
-### Pros:
+### Pros
 - Free Plan
 - Great 16Tbps Layer 4 & Unlimited Layer 7 Protection
 - Running since 2015, has a great reputation
@@ -78,12 +76,12 @@ Locations: France (Gravelines), Germany (Frankfurt), Canada (Beauharnois, Quebec
 - Great uptime
 - Simple and fast setup 
 
-### Cons:
+### Cons
 - Expensive compared to the other alternatives
 - Geyser Support starts at 100$ / month
 - No Asia/Africa/South America/Australia locations
 
-### For dedicated servers / vps:
+### For dedicated servers / vps
 
 If you don't have a hosting for your server yet but you are interested in getting TCPShield, here is a list of hosts that will work great with TCPShield:
 - OVH (Canada)
@@ -99,7 +97,7 @@ If you don't have a hosting for your server yet but you are interested in gettin
 - SoYouStart (France)
 - SoYouStart (Germany)
 
-### For home hosting:
+### For home hosting
 
 If you just want to run a server for few friends but you still want some ddos protection, TCPShield is the best option at the moment if you are in Europe/North America of course.
 
@@ -119,21 +117,21 @@ Website: https://mcshield.com
 
 Brand new option made by MCPROHOSTING. It came out on 20th of October. The protection is CloudFlare Spectrum (42 Tbps) and you there is only one plan which costs 10 USD a month. You get unlimited bandwidth, access to 22 [locations](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html) on 6 continents and there is also 7 day money back guarantee. 
 
-### Pros:
+### Pros
 - Cheap
 - Unlimited bandwidth
 - CloudFlare Spectrum 42Tbps Protection
 - 22 locations on 6 continents
 
-### Cons:
+### Cons
 - Brand new and run by a hosting company that runs your server on a Dual Xeon E5-2600 CPU. I'll be doing some tests soon so maybe MCShield is actually much better than MCProHosting, who knows.
 - No Geyser Support
 - Lack of information on the website
 
-### For home hosting:
+### For home hosting
 You have more locations than TCPShield. UK Location available.
 
-### For dedicated servers:
+### For dedicated servers
 In my opinion MCShield isn't really a DDos Protection for professionals at the moment but you could give it a try, the number of locations can let you choose a server anywhere in the world.
 
 # CosmicGuad
@@ -144,18 +142,18 @@ More info: https://www.peeringdb.com/net/21075
 
 Locations: Dallas, LA, Reston, Secaucus, Amsterdam, London and Maidenhead.
 
-### For home hosting:
+### For home hosting
 UK Location available.
 
-### For dedicated servers:
+### For dedicated servers
 You could protect your pebblehost dedicated server with CosmicGuard I guess?
 
-# Pros:
+### Pros
 - Custom built 1Tbps DDoS Protection (EDIT: You get null routed if the attack is 500Gb or more)
 - You are charged for what you actually use
 - Geyser Support
 
-# Cons:
+### Cons
 - Pretty expensive
 
 # BuyVM
@@ -170,10 +168,10 @@ Simply go [here](https://buyvm.net/kvm-dedicated-server-slices/), choose the sli
 
 More soon!
 
-### For home hosting:
+### For home hosting
 The chepeast option (6.5 USD) and the only one where it's a VPS, not a panel if that's what you want.
 
-### For dedicated servers:
+### For dedicated servers
 These should work great:
 - OVH (Canada)
 - ReliableSite (New York)
@@ -190,12 +188,12 @@ These should work great:
 - SoYouStart (France)
 - SoYouStart (Germany)
 
-### Pros:
+### Pros
 - You can run whatever you want on this along the nginx/infrared proxy
 - You can run multiple servers, with different IPs
 - Easily upgradable
 
-### Cons:
+### Cons
 - No downgrades
 - Hard to setup for non linux users
 - If something breaks, you must fix it yourself
@@ -207,19 +205,19 @@ Locations you get: Sydney, Melbourne, Perth, Brisbane, Adelaide, Auckland (New Z
 
 It costs 10$ / month and you get unlimited bandwidth!
 
-### For dedicated servers:
+### For dedicated servers
 You could protect your OVH dedicated server
 
-### For home hosting:
+### For home hosting
 It's cheap and more locations in Australia than MCShield
 
-### Pros:
+### Pros
 - Many locations in this region
 - Great load balancing (I talked to the dev)
 - Unlimited bandwidth
 - The only alternative to MCShield which seems to be aimed at more professional servers
 
-### Cons:
+### Cons
 - It's down at the moment!
 
 # For large networks
@@ -235,5 +233,5 @@ It's cheap and more locations in Australia than MCShield
 - block some packets like 2b2t does in their queue (more on this soon)
 
 
-## Contact
+# Contact
 Discord: qbasty#0001
