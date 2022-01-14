@@ -141,16 +141,19 @@ I wouldn't recommend this to bigger servers at the moment.
 
 Website: https://www.infinity-filter.com/en
 
-I've talked to the developer a lot. This seems like a great TCPShield alternative.
+I've talked to the developer a lot. This seems like a great TCPShield alternative. Geyser support costs additional 10$ a month.
 
 ### Pros
 - Cheap
 - Unlimited bandwidth
+- Plans to expand to UK, Poland
 - Geyser support
+- Custom filters
+- Really cool panel and discord notifications coming soon
 
 ### Cons
-- Less nodes
-- No more locations than TCPShield
+- France, Germany and Canada
+- Not as many nodes as TCPShield
 
 # Game Shield
 
@@ -163,7 +166,9 @@ I have very little info about this option for now.
 
 ### Cons
 - No germany location?
+- Vulnarable to some attacks
 - No geyser support
+- Not as many nodes as TCPShield
 
 
 # Lecton
