@@ -3,60 +3,62 @@
 This guide is for those who need to protect their home/VPS/dedicated/shared server from DDoS attacks. If I'm wrong about something or something is missing, contact me on discord - qbasty#0001.
 
 # Do I need DDoS Protection?
-Not everyone needs DDoS Protection, a server for 2 friends doesn't, but even bigger servers with 50 players might need it. You probably shouldn't worry until... yea, it happens. 
+Not everyone needs DDoS Protection, a server for 2 friends doesn't, but even bigger servers with 50 players might need it. You probably shouldn't worry until you actually start having issues with DDoSes. 
 
-## How to check if my host has DDoS protection?
-Sadly, almost every dedicated/VPS or even shared server hosting says that they have great DDoS Protection. Let's check that! If you don't know the IP of your server because you just have a subdomain, make sure your server is on and use https://mcsrvstat.us to get the IP of your server (Show Debug Info). Once you have the IP, head to https://ipinfo.io and enter the IP there. Look at ORG and Name, if you see something that wasn't mentioned in this guide, your host probably has none or barely any custom DDoS protection (This is the case for MANY hosting companies, message them for more info).
-
-## DDoS Protection out of the box
+## Dedicated Server Providers
+Dedicated Server Providers with DDoS Protection that I can/can't recommend
 
 Very Good/Amazing:
-- Tempest - You will be able to handle a few thousand players (traffic) and DDoS attacks at the same time
-- OVH - Game Range has the best protection for Minecraft. Internal attacks are an issue for some people. (Not as good as Tempest)
+- Tempest - Path.net DDoS Protection together with 10Gbit traffic. The biggest issues with path.net are stability and latency.
+- OVH - TCPShield and Infinity-Filter are running on OVH machines. Some of the issues are internal attacks and bad support.
 
 Good/Decent:
-- Hetzner - it's enough for some people, for some it isn't. You can kindly ask for an IP change of your dedicated server if you want to get some DDoS Protection
+- Hetzner - It's good enough for some people. You can request an IP reset for free.
 - ReliableSite
 
 Bad/Horrible:
-- OVH VPS - They can be taken down easily
+- OVH VPS
 - PhoenixNAP
 
 More soon
 
-# On budget
-Below you can find a list of DDoS Protection services across all continents, some of these can be used by large networks.
-
-Locations you will find: to do
+# Protection with panel and support
+These are some great options for those who don't want to spend too much time worrying all of this.
 
 ## Europe
-Europe has options starting from 0$ a month to hundreds, it all depends on your needs. Click on the name to learn more about each option.
 
 - [TCPShield](https://github.com/qbasty/ddos-prot-mc-servers#tcpshield)
 - [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
 - [CosmicGuard](https://github.com/qbasty/ddos-prot-mc-servers#cosmicguard)
-- [BuyVM](https://github.com/qbasty/ddos-prot-mc-servers#buyvm) (VPS Hosting)
+- [Infinity Filter](https://github.com/qbasty/ddos-prot-mc-servers#infinity-filter)
+- [Game Shield](https://github.com/qbasty/ddos-prot-mc-servers#game-shield)
+- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
 
 ## North America
-North America has very similar options to Europe, but more locations are available.
 
 - [TCPShield](https://github.com/qbasty/ddos-prot-mc-servers#tcpshield)
 - [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
 - [CosmicGuard](https://github.com/qbasty/ddos-prot-mc-servers#cosmicguard)
-- [BuyVM](https://github.com/qbasty/ddos-prot-mc-servers#buyvm) (VPS Hosting)
+- [Infinity Filter](https://github.com/qbasty/ddos-prot-mc-servers#infinity-filter)
+- [Game Shield](https://github.com/qbasty/ddos-prot-mc-servers#game-shield)
+- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
 
-## Australia / New Zealand
-Only 2 options here, there aren't many great dedicated servers for Minecraft in this region.
+## Oceania
+
 - [Ausguard](https://github.com/qbasty/ddos-prot-mc-servers#ausguard)
 - [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
+- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
 
-## Singapore / Asia
-- If you have chosen between OVH and PhoenixNAP, choose OVH for better DDoS Protection out of the box
+## Asia
+
 - [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
+- [Game Shield](https://github.com/qbasty/ddos-prot-mc-servers#game-shield)
+- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
 
 ## Africa and South America
-- You could get a server in Miami, so players from South America have a decent ping, in that case, you can choose from MCShield, BuyVM, Bloom Hosting.
+
 - [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
+- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
 
 # TCPShield
 
@@ -124,15 +126,51 @@ The brand new option made by MCPROHOSTING. It came out on the 20th of October. T
 - 22 locations on 6 continents
 
 ### Cons
-- Brand new and run by a hosting company that runs your server on a Dual Xeon E5-2600 CPU. I'll be doing some tests soon so maybe MCShield is actually much better than MCProHosting, who knows.
+- Let's hope this isn't bad like MCProHosting can be
 - No Geyser Support
 - Lack of information on the website
+- No ip forwarding (you have to open a ticket)???
 
 ### For home hosting
 You have more locations than TCPShield. UK Location is available.
 
 ### For dedicated servers
-In my opinion, MCShield isn't really a DDoS Protection for professionals at the moment but you could give it a try, the number of locations can let you choose a server anywhere in the world.
+I wouldn't recommend this to bigger servers at the moment.
+
+# Infinity Filter
+
+Website: https://www.infinity-filter.com/en
+
+I've talked to the developer a lot. This seems like a great TCPShield alternative.
+
+### Pros
+- Cheap
+- Unlimited bandwidth
+- Geyser support
+
+### Cons
+- Less nodes
+- No more locations than TCPShield
+
+# Game Shield
+
+Website: https://www.gameshield.gg
+
+I have very little info about this option for now.
+
+### Pros
+- Singapore location :woah:
+
+### Cons
+- No germany location?
+- No geyser support
+
+
+# Lecton
+
+Website: https://www.lectron.com
+
+Soon.
 
 # CosmicGuad
 Used by a few big networks too, but to save money, for example, 2b2t disables A LOT of packets in their queue server. 
@@ -146,7 +184,7 @@ Locations: Dallas, LA, Reston, Secaucus, Amsterdam, London, and Maidenhead.
 UK Location is available.
 
 ### For dedicated servers
-You could protect your PebbleHost dedicated server with CosmicGuard I guess?
+You could protect your PebbleHost UK dedicated server with CosmicGuard I guess?
 
 ### Pros
 - Custom-built 1Tbps DDoS Protection (EDIT: You get null routed if the attack is 500Gb or more)
@@ -155,48 +193,6 @@ You could protect your PebbleHost dedicated server with CosmicGuard I guess?
 
 ### Cons
 - Pretty expensive
-
-# BuyVM
-BuyVM is a VPS provider but doesn't have a fancy panel like TCPShield. You will have to configure an Nginx proxy to protect your server. But before that, some info here:
-
-### Which SLICE?
-I wouldn't recommend the 512 SLICE at all as it's just not enough power. 1024 is the bare minimum, but I recommend at least the 2048 SLICE. 4096 will run pretty well.
-512, 1024, and 2048 SLICE get a shared 100Mbit/s, but you can burst up to 1Gbit/s if there isn't much traffic on the whole network at the moment. 4096 SLICE gets a dedicated 100Mbit/s, 8192 gets a dedicated 200Mbit/s, etc. 
-
-### How to order
-Simply go [here](https://buyvm.net/kvm-dedicated-server-slices/), choose the slice you want, the location, and then in the order form order x1 DDOS PROTECTED IP. If you get an out-of-stock error, join [here](https://discord.gg/3hs44DjPc8) to wait for the stock. 
-
-More soon!
-
-### For home hosting
-The cheapest option (6.5 USD) and the only one where it's a VPS, not a panel if that's what you want.
-
-### For dedicated servers
-These should work great:
-- OVH (Canada)
-- ReliableSite (New York)
-- ReliableSite (Miami)
-- PhoenixNAP (Ashburn)
-- SoYouStart (Canada)
-- Ready2Frag (Chicago)
-- HostVenom (Chicago)
-- Hetzner (Germany)
-- PhoenixNAP (Amsterdam)
-- OVH (Germany)
-- OVH (France)
-- OVH (Poland) ~30ms
-- SoYouStart (France)
-- SoYouStart (Germany)
-
-### Pros
-- You can run whatever you want on this along with the Nginx/infrared proxy
-- You can run multiple servers, with different IPs
-- Easily upgradable
-
-### Cons
-- No downgrades
-- It is hard to set up for non-Linux users
-- If something breaks, you must fix it yourself
 
 # Ausguard
 
@@ -221,15 +217,11 @@ It's cheap and has more locations in Australia than MCShield
 - It's down at the moment!
 
 # For large networks
-
-- TCPShield - the 100 or 250 USD plan a month is what you would be looking at. Extremely fast support, load balancing, great panel, and Cloudflare Spectrum for smaller ping if needed. Used by MrBeast Event Server, LTT, PebbleHost, MineSuperior, Vortex, Lunar, and many others - https://tcpshield.com/#clients
-- CosmicGuard - you might have to do some tricks to save bandwidth and lower the costs. Used by 2b2t, Tebex, Chess.com, Wynncraft, Cosmic.
-- Tempest - Dedicated Servers with 10Gbit port and 6.5Tbps Path.net DDoS Protection.
-- Cloudflare - The most expensive but 42Tbit DDoS Protection isn't cheap. Cloudflare has many locations too. Used by Hypixel.
+DM me on discord and I can help you choose the best option.
 
 # Lowering the bandwidth usage
 - Lower view distance
-- set compression-level to 256 in your velocity config, this will increase CPU usage at the cost of lower bandwidth usage (if you run without a proxy, set it in server.properties, but if you do run with a proxy, set it to -1 on all of your paper servers)
+- set compression-level to 256 or lower in your velocity config, this will increase CPU usage at the cost of lower bandwidth usage (if you run without a proxy, set it in server.properties, but if you do run with a proxy, set it to -1 on all of your paper servers)
 - block some packets like 2b2t does in their queue (more on this soon)
 
 # Contact
