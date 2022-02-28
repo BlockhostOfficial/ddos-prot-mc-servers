@@ -97,16 +97,6 @@ If you don't have a host for your server yet, but you are interested in getting 
 
 If you just want to run a server for a few friends but you still want some DDoS protection, TCPShield is the best option at the moment if you are in Europe/North America of course.
 
-Quickly comparing all the plans. 
-| Plan  | Price  | Bandwidth Limit  | Bedrock Support (UDP)  | Networks (How many different servers)  | Domains  | Sub accounts  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Free  | 0$ / month  | 1TB  | :x:  | 1  | 3  | :x:  |
-| Pro  | 25$ / month  | 2TB  | :x:  | 1  | 10  | :x:  |
-| Premium  | 100$ / month  | Unlimited  | :white_check_mark:  | 3  | 25  | :white_check_mark:  |
-| Enterprise  | 250$ / month  | Unlimited  | :white_check_mark:  | 10  | Unlimited  | :white_check_mark:  |
-
-Note: There are MANY more features for each plan, learn more about them [here](https://tcpshield.com/plans).
-
 # MCShield
 
 Website: https://mcshield.com
@@ -196,7 +186,12 @@ You can get a dedicated server from CosmicGuard in any location they have right 
 
 
 # For large networks
-TCPShield or CosmicGuard or OVH/Tempest dedicated servers. DM ME for more.
+Dedicated servers: Tempest, OVH, CosmicGuard
+Protection: TCPShield, CosmicGuard
+
+# Upcoming services:
+- https://sch-cloud.com they will have a free plan and multiple locations (free plan seems to use path.net)
+- https://discord.gg/pXX79xv5Td based on GSL, locations: North America, Singapore/Asia, Europe, Australia, New Zealand
 
 # Lowering the bandwidth usage
 - Lower view distance
