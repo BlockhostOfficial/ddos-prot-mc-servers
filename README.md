@@ -17,8 +17,16 @@ Ok/Bad:
 - ReliableSite
 - PhoenixNAP
 
+# Best Protection
+This is my personal opinion and feedback from others, don't use this as your main reason to buy / not buy.
+
+1. CosmicGuard - It's been great for me so far but when there was some attack that worked, they fixed it really fast.
+2. Path.net - When I was using BuyVM, we had to block a lot of proxies ourself and that wasn't an issue with CosmicGuard
+3. Cloudflare
+4. OVH (without any custom filters) - All the options I mentioned like TCPShield and Infinity Filter have their own custom filters
+
 # Protection with panel and support
-These are some options that come with a panel and support, no hard and time consuming setups.
+These are some options that come with a panel and support, no hard and time consuming setups. BuyVM is the only setup that doesn't have a panel.
 
 ## Europe
 
@@ -28,6 +36,8 @@ These are some options that come with a panel and support, no hard and time cons
 - [Infinity Filter](https://github.com/qbasty/ddos-prot-mc-servers#infinity-filter)
 - [Game Shield](https://github.com/qbasty/ddos-prot-mc-servers#game-shield)
 - [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
+- [BuyVM](https://github.com/qbasty/ddos-prot-mc-servers#buyvm)
+- [Packets-Decreaser](https://github.com/qbasty/ddos-prot-mc-servers#packets-decreaser)
 
 ## North America
 
@@ -37,6 +47,7 @@ These are some options that come with a panel and support, no hard and time cons
 - [Infinity Filter](https://github.com/qbasty/ddos-prot-mc-servers#infinity-filter)
 - [Game Shield](https://github.com/qbasty/ddos-prot-mc-servers#game-shield)
 - [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
+- [BuyVM](https://github.com/qbasty/ddos-prot-mc-servers#buyvm)
 
 ## Oceania
 
@@ -110,7 +121,6 @@ The brand new option made by MCPROHOSTING. It came out on the 20th of October 20
 - 22 locations on 6 continents
 
 ### Cons
-- Let's hope this isn't bad like MCProHosting can be
 - No Geyser Support
 - Lack of information on the website
 - No ip forwarding (you have to open a ticket)???
@@ -126,39 +136,51 @@ I wouldn't recommend this to bigger servers at the moment.
 
 Website: https://www.infinity-filter.com/en
 
-I've talked to the developer a lot. This seems like a great TCPShield alternative. Geyser support costs additional 10$ a month.
+I've talked to the developer a lot. This seems like a great TCPShield alternative. Geyser support costs additional 10$ a month. It runs on OVH servers.
 
 ### Pros
 - Cheap
 - Unlimited bandwidth
-- Plans to expand to UK, Poland
+- Plans to expand to more locations
 - Geyser support
 - Custom filters
 - Support is really fast
 
 ### Cons
 - No Asia/Australia
-- Not as many nodes as TCPShield
+- Not as many nodes as TCPShield (lower capacity)
 
 # Game Shield
 
 Website: https://www.gameshield.gg
 
-I have very little info about this option for now. Based on OVH too.
+I have very little info about this option for now. It runs on OVH servers.
 
 ### Pros
-- Singapore location :woah:
+- Singapore location
 
 ### Cons
 - No germany location?
-- Vulnarable to some attacks
 - No geyser support
 - Not as many nodes as TCPShield
 
 
-# Lecton
+# Lectron
 
 Website: https://www.lectron.com
+
+Soon.
+
+# Packets-decreaser
+
+Discord: https://discord.gg/kuyjtzC7mq
+Only Netherlands location, 10ms to Hetzner.
+
+Soon.
+
+# PassionShield
+
+Discord: https://discord.gg/P7TeNekAUv
 
 Soon.
 
@@ -171,7 +193,7 @@ More info: https://www.peeringdb.com/net/21075
 Locations: Dallas, LA, Reston, Secaucus, Amsterdam, London, and Maidenhead.
 
 ### For home hosting
-More locations than OVH based services and new locations are popping out pretty fast which is great.
+More locations than OVH and new locations are coming soon so if your home server doesn't have many players, Cosmic will be great.
 
 ### For dedicated servers
 You can get a dedicated server from CosmicGuard in any location they have right now, setup time is 2 weeks and you get 50TB Bandwidth out of the box, it's also possible to upgrade to 10Gbit port.
@@ -183,6 +205,31 @@ You can get a dedicated server from CosmicGuard in any location they have right 
 
 ### Cons
 - Pretty expensive
+
+# BuyVM
+
+Website: https://buyvm.net
+
+BuyVM offers cheap VPS with Path.net DDos Protection, you have to setup nginx (or other proxy) and you don't get a panel of course. You need some linux knowledge. 4GB RAM gets 100Mbit/s but it can burst up to 1Gbit/s. 8GB RAM gets 200Mbit/s etc. This can be an issue with a lot of players or with file transfers.
+
+### Pros
+- Cheap
+- Unlimited bandwidth
+- Path.net 10Tbit DDos Protection
+- 4 locations
+- More control if that's what you want
+
+### Cons
+- Hours of downtime (personal experience, happened twice)
+- Bad latency in some cases
+- No easy panel (unless you don't want one)
+- Vulnerable to some attacks (happened to me with a cracked/offline-mode server)
+
+### For home hosting
+3 locations in US.
+
+### For dedicated servers
+Latency to hetzner from LUX is 10-15ms which is OK but you will have a much better experience with other DDoS Protection services that have a Germany Location. I wouldn't recommend BuyVM for large servers.
 
 
 # For large networks
