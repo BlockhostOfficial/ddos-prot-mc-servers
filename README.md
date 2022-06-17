@@ -12,6 +12,7 @@ Good/Great:
 - Tempest - Path.net DDoS Protection together with 10Gbit traffic and port. The biggest issues with path.net are stability and latency. Current capacity is 10Tbit.
 - OVH - OVH offers great protection at a great price. OVH is known for having some issues with billing, support and internal attacks. You get same protection with SoYouStart and Kimsufi. TCPShield and Infinity Filter run on OVH.
 - CosmicGuard - Yes, now they have their own dedicated servers. Open a ticket / live chat if interested.
+
 Ok/Bad:
 - Hetzner - It's good enough for some people but really bad in some cases. You can request an IP reset for free (only one time).
 - ReliableSite
