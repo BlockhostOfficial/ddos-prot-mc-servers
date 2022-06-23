@@ -29,7 +29,9 @@ Don't use this as your main reason to buy / not buy. This is my personal opinon 
 
 # Favourite services
 Lectron - pay-as-you-use billing + 210 locations with CloudFlare's minimal latency - [https://lectron.com](https://lec.net/qbasty)
+
 InfinityFilter - similar protection as TCPShield but much better billing system, also has a free plan - [https://www.infinity-filter.com](https://panel.infinity-filter.com/partner/8f0fcec8-0c54-4c5c-a425-27867bcc248a)
+
 CosmicGuard - Amazing protection that also stops many bots - https://cosmicguard.com/
 
 # Protection with panel and support
