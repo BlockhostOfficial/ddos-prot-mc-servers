@@ -26,7 +26,7 @@ Don't use this as your main reason to buy / not buy. This is my personal opinon 
 
 1. CosmicGuard - Out of the box it wasn't fully ready but we quickly had everything setup (dedicated server). The biggest issue for me right now is latency to Asia.
 2. Path.net - When using BuyVM, we had issues with uptime, latency and L7 attacks. We had to setup iptables to stop the attack.
-3. Cloudflare
+3. Cloudflare (MCShield and Lectron use Cloudflare)
 4. OVH (without any custom filters)
 
 # Favourite services
