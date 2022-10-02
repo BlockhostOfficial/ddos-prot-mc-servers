@@ -1,7 +1,7 @@
 # DDoS Protection for your Minecraft Server!
 
 If you are experiencing issues with DDoSes on your Minecraft Server or you want to protect your server against them, this guide is for you.
-Contact: qbasty#0001
+Contact: qbasty#9642
 
 Note: there are some affiliate links in the list and I'll earn from them a % of the purchase
 
@@ -223,7 +223,7 @@ BuyVM offers cheap VPS with Path.net DDos Protection, you have to setup nginx (o
 - https://discord.gg/pXX79xv5Td based on GSL, locations: North America, Singapore/Asia, Europe, Australia, New Zealand
 
 # Lower the bandwidth usage:
-Soon
+- Decrease render distance
 
 # Contact
-Discord: qbasty#0001
+Discord: qbasty#9642
