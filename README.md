@@ -2,9 +2,11 @@
 
 If you are experiencing issues with DDoSes on your Minecraft Server or you want to protect your server against them, this guide is for you.
 
-SUPPORT DISCORD: https://discord.gg/GcemTB848R
+Support Discord Server:
 
-Note: there are some affiliate links in the list and I'll earn from them a % of the purchase
+[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
+
+Note: There are some affiliate links in the list and I'll earn from them a % of the purchase
 
 # Do I need DDoS Protection?
 If your server is small or just private, you don't have to worry about DDoSes but there are many free DDoS tools today and some hosts can't even protect you against them so it might be worth it to spend a litle bit more money on DDoS protection or a good host with DDoS protection.
