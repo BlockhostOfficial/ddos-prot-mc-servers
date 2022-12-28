@@ -229,4 +229,5 @@ BuyVM offers cheap VPS with Path.net DDos Protection, you have to setup nginx (o
 - Decrease render distance
 
 # Contact
-https://discord.gg/GcemTB848R
+
+[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
