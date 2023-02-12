@@ -59,7 +59,6 @@ These are some options that come with a panel and support, no hard and time cons
 - [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
 - [CosmicGuard](https://github.com/qbasty/ddos-prot-mc-servers#cosmicguard)
 - [Infinity Filter](https://github.com/qbasty/ddos-prot-mc-servers#infinity-filter)
-- [Game Shield](https://github.com/qbasty/ddos-prot-mc-servers#game-shield)
 - [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
 - [BuyVM](https://github.com/qbasty/ddos-prot-mc-servers#buyvm)
 
@@ -137,21 +136,6 @@ I've talked to the developer a lot. This seems like a great TCPShield alternativ
 ### Cons
 - No Asia/Australia
 - Not as many nodes as TCPShield (lower capacity)
-
-# Game Shield
-
-Website: https://www.gameshield.gg
-
-I have very little info about this option for now. It runs on OVH servers.
-
-### Pros
-- Singapore location
-
-### Cons
-- No germany location?
-- No geyser support
-- Not as many nodes as TCPShield
-
 
 # Lectron
 
