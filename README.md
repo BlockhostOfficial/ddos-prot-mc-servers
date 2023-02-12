@@ -44,39 +44,37 @@ These are some options that come with a panel and support, no hard and time cons
 
 ## Europe
 
-- [TCPShield](https://github.com/qbasty/ddos-prot-mc-servers#tcpshield)
-- [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
-- [CosmicGuard](https://github.com/qbasty/ddos-prot-mc-servers#cosmicguard)
-- [Infinity Filter](https://github.com/qbasty/ddos-prot-mc-servers#infinity-filter)
-- [Game Shield](https://github.com/qbasty/ddos-prot-mc-servers#game-shield)
-- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
-- [BuyVM](https://github.com/qbasty/ddos-prot-mc-servers#buyvm)
-- [Packets-Decreaser](https://github.com/qbasty/ddos-prot-mc-servers#packets-decreaser)
+- [TCPShield](#tcpshield)
+- [MCShield](#mcshield)
+- [CosmicGuard](#cosmicguard)
+- [Infinity Filter](#infinity-filter)
+- [Lectron](#lectron)
+- [BuyVM](#buyvm)
+- [Packets-Decreaser](#packets-decreaser)
 
 ## North America
 
-- [TCPShield](https://github.com/qbasty/ddos-prot-mc-servers#tcpshield)
-- [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
-- [CosmicGuard](https://github.com/qbasty/ddos-prot-mc-servers#cosmicguard)
-- [Infinity Filter](https://github.com/qbasty/ddos-prot-mc-servers#infinity-filter)
-- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
-- [BuyVM](https://github.com/qbasty/ddos-prot-mc-servers#buyvm)
+- [TCPShield](#tcpshield)
+- [MCShield](#mcshield)
+- [CosmicGuard](#cosmicguard)
+- [Infinity Filter](#infinity-filter)
+- [Lectron](#lectron)
+- [BuyVM](#buyvm)
 
 ## Oceania
 
-- [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
-- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
+- [MCShield](#mcshield)
+- [Lectron](#lectron)
 
 ## Asia
 
-- [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
-- [Game Shield](https://github.com/qbasty/ddos-prot-mc-servers#game-shield)
-- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
+- [MCShield](#mcshield)
+- [Lectron](#lectron)
 
 ## Africa and South America
 
-- [MCShield](https://github.com/qbasty/ddos-prot-mc-servers#mcshield)
-- [Lectron](https://github.com/qbasty/ddos-prot-mc-servers#lectron)
+- [MCShield](#mcshield)
+- [Lectron](#lectron)
 
 # TCPShield
 
@@ -207,11 +205,11 @@ BuyVM offers cheap VPS with Path.net DDos Protection, you have to setup nginx (o
 
 # Upcoming services:
 - https://sch-cloud.com they will have a free plan and multiple locations (free plan seems to use path.net)
-- https://discord.gg/pXX79xv5Td based on GSL, locations: North America, Singapore/Asia, Europe, Australia, New Zealand
+- [Sayetta](https://discord.gg/pXX79xv5Td) based on GSL, locations: North America, Singapore/Asia, Europe, Australia, New Zealand
 
 # Lower the bandwidth usage:
 - Decrease render distance
 
 # Contact
 
-[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
+[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://blockhost.net/discord)
