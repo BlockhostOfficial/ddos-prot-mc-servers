@@ -114,7 +114,7 @@ BuyVM is a good self hosted option but will need to choose the right server for 
 ### Coming soon:
 - OVH VPS
 
-# Contact
+## Contact
 Leave a star and join our Discord if you've found this helpful!
 
 [![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://blockhost.net/discord)
