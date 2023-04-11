@@ -14,12 +14,12 @@ If you have a private server for your friends, then you don't need any sort of D
 ### Dedicated Server Providers
 These are some dedicated server providers which come with good DDoS protection out of the box.
 
-- Tempest
-- OVH
-- CosmicGuard
-- Bloom.host
-- BerryByte
-- Pufferfish
+- [Tempest](https://tempest.net) (Path.net)
+- [OVH](https://www.ovhcloud.com)
+- [CosmicGuard](https://bloom.host)
+- [Bloom.host](https://bloom.host) (CloudFlare)
+- [BerryByte](https://berrybyte.net) (CosmicGuard)
+- [PufferFish](https://pufferfish.host) (CosmicGuard)
 
 ### DDoS Protection Service with a panel
 These services have an easy to use panel and they're the best option for most of server owners.
@@ -28,7 +28,7 @@ These services have an easy to use panel and they're the best option for most of
 
 I've been personally using Infinity Filter and it has the one of the best protections out there if not the best and it's pay as you go pricing helped us run huge events for really cheap. The panel could use some work but overall the service is fantastic.
 
-- Website: https://www.infinity-filter.com
+- [Website](https://www.infinity-filter.com)
 - Locations: Germany, France, Canada (Montreal)
 - Pricing type: Pay-as-you-go
 - Servers: OVH
@@ -40,7 +40,7 @@ I've been personally using Infinity Filter and it has the one of the best protec
 
 CosmicGuard is more expensive than Infinity Filter with their service but their dedicated servers and other dedicated servers providers that use them offer a good price with great protection. Their filters worked almost every time for me, sometimes they need to tune in their filters just for you.
 
-- Website: https://cosmicguard.com
+- [Website](https://cosmicguard.com)
 - Locations: Ashburn, Dallas, LA, London, Amsterdam
 - Pricing type: Pay-as-you-go
 - Servers: Custom
@@ -52,7 +52,7 @@ CosmicGuard is more expensive than Infinity Filter with their service but their 
 
 TCPShield is the most popular service but it's more expensive than Infinity Filter and their filters are worse. They still have a good reputation and they're a very stable option.
 
-- Website: https://tcpshield.com
+- [Website](https://tcpshield.com)
 - Locations: Germany, France, Canada (Montreal)
 - Pricing type: Subscription
 - Servers: OVH
@@ -64,8 +64,8 @@ TCPShield is the most popular service but it's more expensive than Infinity Filt
 
 MCShield is a new but already popular option. It's ran by MCPROHOSTING and it only has one cheap plan. It's filters aren't the best but it's still an alright option for smaller servers and especially home hosted ones. 
 
-- Website: https://mcshield.com
-- Locations: https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html
+- [Website](https://mcshield.com)
+- [Locations](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html)
 - Pricing type: Subscription
 - Servers: CloudFlare
 - Supports Bedrock: No
@@ -76,7 +76,7 @@ MCShield is a new but already popular option. It's ran by MCPROHOSTING and it on
 
 Papyrus is a new option. They have quite a few locations and it's also very affordable. I recommend using them only if you have room for experimentation.
 
-- Website: https://papyrus.vip
+- [Website](https://papyrus.vip)
 - Locations: New York, Ashburn, Japan, Singapore, Mexico
 - Pricing type: Subscription
 - Servers: Path.net
@@ -88,8 +88,8 @@ Papyrus is a new option. They have quite a few locations and it's also very affo
 
 Lectron isn't well known in the Minecraft community as they also focus on GTA, Metaverse and Crypto. You might find their huge amount of locations a plus but I would choose another service.
 
-- Website: https://www.lectron.com/
-- Locations: https://www.lectron.com/locations/
+- [Website](https://www.lectron.com/)
+- [Locations](https://www.lectron.com/locations/)
 - Pricing type: Pay-as-you-go
 - Servers: Path.net and CloudFlare
 - Supports Bedrock: Unknown
@@ -103,7 +103,7 @@ If you don't want to use a panel and you want more freedom, then these options w
 
 BuyVM is a good self hosted option but will need to choose the right server for your player count. If you run an offline mode server, you will need to setup some custom filters.
 
-- Website: https://buyvm.net
+- [Website](https://buyvm.net)
 - Locations: Las Vegas, New York, Miami, Luxembourg
 - Pricing type: Subscription
 - Servers: Path.net
@@ -115,5 +115,6 @@ BuyVM is a good self hosted option but will need to choose the right server for 
 - OVH VPS
 
 # Contact
+Leave a star and join our Discord if you've found this helpful!
 
 [![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://blockhost.net/discord)
