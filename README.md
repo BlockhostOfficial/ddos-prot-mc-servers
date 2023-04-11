@@ -70,7 +70,7 @@ MCShield is a new but already popular option. It's ran by MCPROHOSTING and it on
 - Servers: CloudFlare
 - Supports Bedrock: No
 - Free plan: No
-- Trusted: ⭐⭐⭐
+- Trusted: ⭐⭐⭐⭐
 
 ##### Papyrus VIP
 
@@ -82,7 +82,7 @@ Papyrus is a new option. They have quite a few locations and it's also very affo
 - Servers: Path.net
 - Supports Bedrock: Yes
 - Free plan: No
-- Trusted: ⭐⭐
+- Trusted: ⭐⭐⭐
 
 ##### Lectron
 
