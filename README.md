@@ -50,7 +50,7 @@ CosmicGuard is more expensive than Infinity Filter with their service but their 
 
 ##### TCPShield
 
-TCPShield is the most popular service but it's more expensive than Infinity Filter and their filters are worse. They still have a good reputation and they're a very stable option.
+TCPShield is the most popular service but it's more expensive than other OVH options like Infinity Filter. They have a great reputation and they're a very trusted option. Used by 2b2t and MrBeast.
 
 - [Website](https://tcpshield.com)
 - Locations: Germany, France, Canada (Montreal)
