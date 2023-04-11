@@ -19,7 +19,7 @@ These are some dedicated server providers which come with good DDoS protection o
 - CosmicGuard
 - Bloom.host
 - BerryByte
-- PufferFish
+- Pufferfish
 
 ### DDoS Protection Service with a panel
 These services have an easy to use panel and they're the best option for most of server owners.
