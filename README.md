@@ -84,6 +84,18 @@ Papyrus is a new option. They have quite a few locations and it's also very affo
 - Free plan: No
 - Trusted: ⭐⭐⭐
 
+##### NeoProtect
+
+NeoProtect is also a newer option. They have a panel and some more budget-friendly plans compared to TCPShield. Only 2 locations so far, but it's easy to use and setup.
+
+- [Website](https://neoprotect.net)
+- Locations: North America and Europe
+- Pricing type: Subscription
+- Servers: OVH
+- Supports Bedrock: Yes
+- Free plan: Yes
+- Trusted: ⭐⭐⭐
+
 ##### Lectron
 
 Lectron isn't well known in the Minecraft community as they also focus on GTA, Metaverse and Crypto. You might find their huge amount of locations a plus but I would choose another service.
