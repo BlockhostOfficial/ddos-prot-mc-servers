@@ -86,7 +86,7 @@ Papyrus is a new option. They have quite a few locations and it's also very affo
 
 ##### NeoProtect
 
-NeoProtect is also a newer option. They have a panel and some more budget-friendly plans compared to TCPShield. Only 2 locations so far, but it's easy to use and setup.
+NeoProtect is also a newer option. They have a panel and some more budget-friendly plans compared to TCPShield.
 
 - [Website](https://neoprotect.net)
 - Locations: New York, Poland, and Germany
@@ -125,6 +125,7 @@ BuyVM is a good self hosted option but will need to choose the right server for 
 
 ### Coming soon:
 - OVH VPS
+- Panel reviews
 
 ## Contact
 Leave a star and join our Discord if you've found this helpful!
