@@ -104,7 +104,7 @@ Lectron isn't well known in the Minecraft community as they also focus on GTA, M
 - [Locations](https://www.lectron.com/locations/)
 - Pricing type: Pay-as-you-go
 - Servers: Path.net and CloudFlare
-- Supports Bedrock: Unknown
+- Supports Bedrock: Yes
 - Free plan: No
 - Trusted: ⭐⭐
 
