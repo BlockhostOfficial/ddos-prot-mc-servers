@@ -16,7 +16,7 @@ These are some dedicated server providers which come with good DDoS protection o
 
 - [Tempest](https://tempest.net) (Path.net)
 - [OVH](https://www.ovhcloud.com)
-- [CosmicGuard](https://bloom.host)
+- [CosmicGuard](https://cosmicguard.com)
 - [Bloom.host](https://bloom.host) (CloudFlare)
 - [BerryByte](https://berrybyte.net) (CosmicGuard)
 - [PufferFish](https://pufferfish.host) (CosmicGuard)
