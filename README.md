@@ -77,9 +77,9 @@ MCShield is a new but already popular option. It's ran by MCPROHOSTING and it on
 Papyrus is a new option. They have quite a few locations and it's also very affordable. I recommend using them only if you have room for experimentation.
 
 - [Website](https://papyrus.vip)
-- Locations: New York, Ashburn, Japan, Singapore, Mexico
+- Locations: New York, Frankfurt (Public) / [300+](https://www.cloudflare.com/network/) on Enterprise Plans
 - Pricing type: Subscription
-- Servers: Path.net
+- Servers: Cloudflare Spectrum
 - Supports Bedrock: Yes
 - Free plan: No
 - Trusted: ⭐⭐⭐
