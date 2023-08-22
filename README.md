@@ -82,7 +82,7 @@ Papyrus is a new option. They have quite a few locations and it's also very affo
 - Servers: Cloudflare Spectrum
 - Supports Bedrock: Yes
 - Free plan: No
-- Trusted: ⭐⭐⭐
+- Trusted: ⭐⭐⭐⭐
 
 ##### NeoProtect
 
