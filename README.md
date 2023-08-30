@@ -60,18 +60,6 @@ TCPShield is the most popular service but it's more expensive than other OVH opt
 - Free plan: Yes
 - Trusted: ⭐⭐⭐⭐⭐
 
-##### MCShield
-
-MCShield is a new but already popular option. It's ran by MCPROHOSTING and it only has one cheap plan. It's filters aren't the best but it's still an alright option for smaller servers and especially home hosted ones. 
-
-- [Website](https://mcshield.com)
-- [Locations](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html)
-- Pricing type: Subscription
-- Servers: CloudFlare
-- Supports Bedrock: No
-- Free plan: No
-- Trusted: ⭐⭐⭐⭐
-
 ##### Papyrus VIP
 
 Papyrus is a new option. They have quite a few locations and it's also very affordable. I recommend using them only if you have room for experimentation.
