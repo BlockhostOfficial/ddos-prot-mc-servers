@@ -26,7 +26,7 @@ These services have an easy to use panel and they're the best option for most of
 
 #### Infinity Filter
 
-I've been personally using Infinity Filter and it has the one of the best protections out there if not the best and it's pay as you go pricing helped us run huge events for really cheap. The panel could use some work but overall the service is fantastic.
+I've been personally using Infinity Filter and it has the one of the best protections out there if not the best and it's pay as you go pricing helped us run huge events for really cheap. The panel could use some work but overall the service is fantastic. The panel also supports Dynmap, SimpleVoiceChat and PlasmoVoice. There's a built in anti vpn as well.
 
 - [Website](https://www.infinity-filter.com)
 - Locations: Germany, France, Canada (Montreal)
