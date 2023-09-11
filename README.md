@@ -60,6 +60,18 @@ TCPShield is the most popular service but it's more expensive than other OVH opt
 - Free plan: Yes
 - Trusted: ⭐⭐⭐⭐⭐
 
+##### NeoProtect
+
+NeoProtect is the new standart in minecraft protection, offering the widest range of features on the market and standing out with premium routing, high availability and premium support
+
+- [Website](https://neoprotect.net)
+- Locations: Ashburn, Warsaw, Frankfurt, Mumbai and Singapore
+- Pricing type: Subscription
+- Servers: AS199414 (own network, single-homed@datapacket) and OVH
+- Supports Bedrock: Yes
+- Free plan: Yes
+- Trusted: ⭐⭐⭐⭐⭐
+
 ##### Papyrus VIP
 
 Papyrus is a new option. They have quite a few locations and it's also very affordable. I recommend using them only if you have room for experimentation.
@@ -71,18 +83,6 @@ Papyrus is a new option. They have quite a few locations and it's also very affo
 - Supports Bedrock: Yes
 - Free plan: No
 - Trusted: ⭐⭐⭐⭐
-
-##### NeoProtect
-
-NeoProtect is also a newer option. They have a panel and some more budget-friendly plans compared to TCPShield.
-
-- [Website](https://neoprotect.net)
-- Locations: New York, Poland, and Germany
-- Pricing type: Subscription
-- Servers: OVH and GSL
-- Supports Bedrock: Yes
-- Free plan: Yes
-- Trusted: ⭐⭐⭐
 
 ##### Lectron
 
