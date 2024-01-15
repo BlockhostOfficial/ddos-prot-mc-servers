@@ -77,9 +77,9 @@ Papyrus is a new option. They have quite a few locations and it's also very affo
 NeoProtect is also a newer option. They have a panel and some more budget-friendly plans compared to TCPShield.
 
 - [Website](https://neoprotect.net)
-- Locations: New York, Poland, and Germany
+- Locations: Frankfurt, Bucharest, Paris, Ashburn, Miami, Los Angeles, Tokyo
 - Pricing type: Subscription
-- Servers: OVH and GSL
+- Servers: DataPacket and OVH (legacy)
 - Supports Bedrock: Yes
 - Free plan: Yes
 - Trusted: ⭐⭐⭐
