@@ -88,7 +88,7 @@ NeoProtect is also a newer option. They have a panel and some more budget-friend
 - Supports Bedrock (Geyser): Yes
 - Free plan: Yes
 - Anti VPN: Yes
-- Proximity & Voice plugins: No
+- Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
 - Trusted: ⭐⭐⭐⭐⭐
 
 ##### Lectron
