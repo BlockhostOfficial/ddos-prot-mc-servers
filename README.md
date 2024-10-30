@@ -36,6 +36,7 @@ I've been personally using Infinity Filter in the past and it has the one of the
 - Supports Bedrock (Geyser): Yes
 - Free plan: Yes
 - Anti VPN: Yes
+- Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
 - Trusted: ⭐⭐⭐⭐⭐
 
 #### CosmicGuard
@@ -48,6 +49,7 @@ CosmicGuard is more expensive than Infinity Filter with their service but their 
 - Supports Bedrock (Geyser): Yes
 - Free plan: No
 - Anti VPN: No
+- Proximity & Voice plugins: No
 - Trusted: ⭐⭐⭐⭐⭐
 
 ##### TCPShield
@@ -60,6 +62,7 @@ TCPShield is the most popular service but it's more expensive than other OVH opt
 - Supports Bedrock (Geyser): Yes
 - Free plan: Yes
 - Anti VPN: No
+- Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
 - Trusted: ⭐⭐⭐⭐⭐
 
 ##### Papyrus VIP
@@ -72,6 +75,7 @@ Papyrus is a new option. They have quite a few locations and it's also very affo
 - Supports Bedrock (Geyser): Yes
 - Free plan: No
 - Anti VPN: No
+- Proximity & Voice plugins: No
 - Trusted: ⭐⭐⭐⭐
 
 ##### NeoProtect
@@ -84,6 +88,7 @@ NeoProtect is also a newer option. They have a panel and some more budget-friend
 - Supports Bedrock (Geyser): Yes
 - Free plan: Yes
 - Anti VPN: Yes
+- Proximity & Voice plugins: No
 - Trusted: ⭐⭐⭐⭐⭐
 
 ##### Lectron
@@ -96,6 +101,7 @@ Lectron isn't well known in the Minecraft community as they also focus on GTA, M
 - Supports Bedrock (Geyser): Yes
 - Free plan: No
 - Anti VPN: No
+- Proximity & Voice plugins: No
 - Trusted: ⭐⭐
 
 ### Self hosted options
