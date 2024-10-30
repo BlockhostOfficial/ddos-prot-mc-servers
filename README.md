@@ -8,44 +8,46 @@ Support Discord Server:
 
 [![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner2)](https://discord.gg/GcemTB848R)
 
+Note: this isn't a hosting company
+
 ## Do I need DDoS Protection?
 If you have a private server for your friends, then you don't need any sort of DDoS protection (unless your friends are crazy) and your host might already have some out of the box. Servers that are open to the public, even the ones with 20 players, can be targets of attacks. It also depends if you have some sort of competition or if someone really dislikes you. Sometimes attackers stop after few hours and they don't come back. There isn't a perfect way to determine if you need protection but if your server has been taking hits quite often recently or you're having a big launch and you can't have any downtime, then it's worth the extra money, time and effort to protect your server.
 
 ### Dedicated Server Providers
 These are some dedicated server providers which come with good DDoS protection out of the box.
 
-- [Tempest](https://tempest.net) (Path.net)
-- [OVH](https://www.ovhcloud.com)
-- [CosmicGuard](https://cosmicguard.com)
-- [Bloom.host](https://bloom.host)
-- [BerryByte](https://berrybyte.net) (CosmicGuard)
-- [PufferFish](https://pufferfish.host) (CosmicGuard)
+- [Tempest](https://tempest.net) (Path.net) - great
+- [OVH](https://www.ovhcloud.com) - medium
+- [CosmicGuard](https://cosmicguard.com) - great
+- [Bloom.host](https://bloom.host) - medium
+- [BerryByte](https://berrybyte.net) (CosmicGuard) - great
+- [PufferFish](https://pufferfish.host) (CosmicGuard) - great
 
 ### DDoS Protection Service with a panel
-These services have an easy to use panel and they're the best option for most of server owners.
+These services have an easy to use panel and they're the best option for most of servers. All servers with five stars have great protection and you likely wouldn't have any challenges with DDoS attacks. What can vary from protection to protection is the distance from their servers to your server, as well as the stability and the ping of the connection for the players. Prioritize choosing close locations, even at higher pricing. Panel and its features are other things you could look into it. TCPShield, as the oldest company out there, provides the most stability and allows you to simply subscribe and forget about it, however newer options like NeoProtect, Infinity Filter and Papyrus offer more direct support and customization for your server.
 
 #### Infinity Filter
 
-I've been personally using Infinity Filter and it has the one of the best protections out there if not the best and it's pay as you go pricing helped us run huge events for really cheap. The panel could use some work but overall the service is fantastic. The panel also supports Dynmap, SimpleVoiceChat and PlasmoVoice. There's a built in anti vpn as well.
+I've been personally using Infinity Filter in the past and it has the one of the best protections out there if not the best and it's pay as you go pricing helped us run huge events for really cheap. The panel could use some work but overall the service is fantastic.
 
 - [Website](https://www.infinity-filter.com)
 - Locations: Germany, France, Canada (Montreal)
-- Pricing type: Pay-as-you-go
-- Servers: OVH
-- Supports Bedrock: Yes
+- Pricing type: One Time + Pay-as-you-go
+- Supports Bedrock (Geyser): Yes
 - Free plan: Yes
-- Trusted: ⭐⭐⭐⭐
+- Anti VPN: Yes
+- Trusted: ⭐⭐⭐⭐⭐
 
 #### CosmicGuard
 
-CosmicGuard is more expensive than Infinity Filter with their service but their dedicated servers and other dedicated servers providers that use them offer a good price with great protection. Their filters worked almost every time for me, sometimes they need to tune in their filters just for you.
+CosmicGuard is more expensive than Infinity Filter with their service but their dedicated servers and other dedicated servers providers that use them offer a good price with great protection. Their filters worked almost every time for me, sometimes they need to tune in their filters just for you, especially with cracked servers.
 
 - [Website](https://cosmicguard.com)
 - Locations: Ashburn, Dallas, LA, London, Amsterdam
 - Pricing type: Pay-as-you-go
-- Servers: Custom
-- Supports Bedrock: Yes
+- Supports Bedrock (Geyser): Yes
 - Free plan: No
+- Anti VPN: No
 - Trusted: ⭐⭐⭐⭐⭐
 
 ##### TCPShield
@@ -55,9 +57,9 @@ TCPShield is the most popular service but it's more expensive than other OVH opt
 - [Website](https://tcpshield.com)
 - Locations: Germany, France, Canada (Montreal)
 - Pricing type: Subscription
-- Servers: OVH
-- Supports Bedrock: Yes
+- Supports Bedrock (Geyser): Yes
 - Free plan: Yes
+- Anti VPN: No
 - Trusted: ⭐⭐⭐⭐⭐
 
 ##### Papyrus VIP
@@ -67,22 +69,22 @@ Papyrus is a new option. They have quite a few locations and it's also very affo
 - [Website](https://papyrus.vip)
 - Locations: New York, Frankfurt (Public) / [300+](https://www.cloudflare.com/network/) on Enterprise Plans
 - Pricing type: Subscription
-- Servers: Cloudflare Spectrum
-- Supports Bedrock: Yes
+- Supports Bedrock (Geyser): Yes
 - Free plan: No
+- Anti VPN: No
 - Trusted: ⭐⭐⭐⭐
 
 ##### NeoProtect
 
-NeoProtect is also a newer option. They have a panel and some more budget-friendly plans compared to TCPShield. Also has options for business networks.
+NeoProtect is also a newer option. They have a panel and some more budget-friendly plans compared to TCPShield. At the moment I'm using them for a couple of months.
 
 - [Website](https://neoprotect.net)
 - Locations: Frankfurt, Paris, Bucharest, Warsaw, Amsterdam, Hong Kong, Singapore, Tokyo, Chicago, Ashburn, Miami, Los Angeles, Dallas
 - Pricing type: Subscription
-- Servers: DataPacket and OVH (legacy)
-- Supports Bedrock: Yes
+- Supports Bedrock (Geyser): Yes
 - Free plan: Yes
-- Trusted: ⭐⭐⭐
+- Anti VPN: Yes
+- Trusted: ⭐⭐⭐⭐⭐
 
 ##### Lectron
 
@@ -91,29 +93,13 @@ Lectron isn't well known in the Minecraft community as they also focus on GTA, M
 - [Website](https://www.lectron.com/)
 - [Locations](https://www.lectron.com/locations/)
 - Pricing type: Pay-as-you-go
-- Servers: Path.net and CloudFlare
-- Supports Bedrock: Yes
+- Supports Bedrock (Geyser): Yes
 - Free plan: No
+- Anti VPN: No
 - Trusted: ⭐⭐
 
 ### Self hosted options
-If you don't want to use a panel and you want more freedom, then these options will work for you. You don't run your Minecraft Server on these, you just use them as protection against attacks.
-
-##### BuyVM
-
-BuyVM is a good self hosted option but will need to choose the right server for your player count. If you run an offline mode server, you will need to setup some custom filters.
-
-- [Website](https://buyvm.net)
-- Locations: Las Vegas, New York, Miami, Luxembourg
-- Pricing type: Subscription
-- Servers: Path.net
-- Supports Bedrock: Yes
-- Free plan: No
-- Trusted: ⭐⭐⭐⭐
-
-### Coming soon:
-- OVH VPS
-- Panel reviews
+Coming soon.
 
 ## Contact
 Leave a star and join our Discord if you've found this helpful!
