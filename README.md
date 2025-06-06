@@ -67,15 +67,28 @@ TCPShield is the most popular service but it's more expensive than other OVH opt
 
 ##### Papyrus VIP
 
-Papyrus is a new option. They have quite a few locations and it's also very affordable. I recommend using them only if you have room for experimentation.
+Papyrus while a pricier option offers more enterprise solutions, Worth to mention a **100% Uptime SLA** on Spectrum Addon plans.
 
 - [Website](https://papyrus.vip)
-- Locations: New York, Frankfurt (Public) / [300+](https://www.cloudflare.com/network/) on Enterprise Plans
+- Locations: New York, Miami, Los Angeles, Frankfurt, Prague, Tokyo, Singapore (AS216013) / [330+](https://www.cloudflare.com/network/) using Cloudflare Spectrum Addon
+- Pricing type: Subscription
+- Supports Bedrock (Geyser): Yes
+- Free plan: No
+- Anti VPN: Yes
+- Proximity & Voice plugins: Yes
+- Trusted: ⭐⭐⭐⭐⭐
+
+##### Arvoris
+
+A budget-focused minecraft-specific service provided by Papyrus. All of the Essential features and the cheapest protection avaliable (From $9.99/m) 
+
+- [Website](https://arvoris.net/)
+- Locations: New York, Miami, Los Angeles, Frankfurt, Prague, Tokyo, Singapore.
 - Pricing type: Subscription
 - Supports Bedrock (Geyser): Yes
 - Free plan: No
 - Anti VPN: No
-- Proximity & Voice plugins: No
+- Proximity & Voice plugins: Yes
 - Trusted: ⭐⭐⭐⭐
 
 ##### NeoProtect
@@ -91,18 +104,6 @@ NeoProtect is also a newer option. They have a panel and some more budget-friend
 - Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
 - Trusted: ⭐⭐⭐⭐⭐
 
-##### Lectron
-
-Lectron isn't well known in the Minecraft community as they also focus on GTA, Metaverse and Crypto. You might find their huge amount of locations a plus but I would choose another service.
-
-- [Website](https://www.lectron.com/)
-- [Locations](https://www.lectron.com/locations/)
-- Pricing type: Pay-as-you-go
-- Supports Bedrock (Geyser): Yes
-- Free plan: No
-- Anti VPN: No
-- Proximity & Voice plugins: No
-- Trusted: ⭐⭐
 
 ### Self hosted options
 Coming soon.
