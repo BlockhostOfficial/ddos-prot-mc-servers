@@ -91,19 +91,6 @@ NeoProtect is also a newer option. They have a panel and some more budget-friend
 - Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
 - Trusted: ⭐⭐⭐⭐⭐
 
-##### Lectron
-
-Lectron isn't well known in the Minecraft community as they also focus on GTA, Metaverse and Crypto. You might find their huge amount of locations a plus but I would choose another service.
-
-- [Website](https://www.lectron.com/)
-- [Locations](https://www.lectron.com/locations/)
-- Pricing type: Pay-as-you-go
-- Supports Bedrock (Geyser): Yes
-- Free plan: No
-- Anti VPN: No
-- Proximity & Voice plugins: No
-- Trusted: ⭐⭐
-
 ### Self hosted options
 Coming soon.
 
