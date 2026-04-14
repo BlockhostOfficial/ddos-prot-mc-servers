@@ -10,6 +10,18 @@ Support Discord Server:
 
 Note: this isn't a hosting company
 
+---
+
+<img align="right" src="https://enderdash.com/logo.png" height="150" width="150">
+
+### ✨ Are you looking for an advanced administration panel for your server?
+
+EnderDash allows you to manage your existing Minecraft servers using an advanced dashboard by installing a single plugin, batteries included. Run commands (with tab completion), read logs, manage files, invite your whole team, manage players, Ocelot (AI Assistant), works with your existing Infrastructure/Panels and much more.
+
+Website: https://enderdash.com
+
+---
+
 ## Do I need DDoS Protection?
 If you have a private server for your friends, then you don't need any sort of DDoS protection (unless your friends are crazy) and your host might already have some out of the box. Servers that are open to the public, even the ones with 20 players, can be targets of attacks. It also depends if you have some sort of competition or if someone really dislikes you. Sometimes attackers stop after few hours and they don't come back. There isn't a perfect way to determine if you need protection but if your server has been taking hits quite often recently or you're having a big launch and you can't have any downtime, then it's worth the extra money, time and effort to protect your server.
 
