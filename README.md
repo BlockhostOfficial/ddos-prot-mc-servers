@@ -18,7 +18,7 @@ Note: this isn't a hosting company
 
 EnderDash allows you to manage your existing Minecraft servers using an advanced dashboard by installing a single plugin, batteries included. Run commands (with tab completion), read logs, manage files, invite your whole team, manage players, Ocelot (AI Assistant), works with your existing Infrastructure/Panels and much more.
 
-Website: https://enderdash.com
+Check it out: [https://enderdash.com](https://enderdash.com/?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
 
 ---
 
