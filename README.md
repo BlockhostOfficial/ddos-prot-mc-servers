@@ -43,13 +43,13 @@ These services have an easy to use panel and they're the best option for most of
 NeoProtect is a very stable service (great uptime) with lots of features. Along with Papyrus, I would recommend them for the best protection.
 
 - [Website](https://neoprotect.net)
-- Locations: Frankfurt, Paris, Marseille, London, Madrid, Bucharest, Warsaw, Amsterdam, Hong Kong, Singapore, Tokyo, Chicago, Ashburn, Miami, Los Angeles, Dallas, Seattle
+- Locations: Frankfurt, Ashburn
 - Pricing type: Subscription
 - Supports Bedrock (Geyser): Yes
 - Free plan: Yes
 - Anti VPN: Yes
 - Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
-- Recommended: ⭐⭐⭐⭐⭐
+- Recommended: ⭐⭐⭐⭐
 
 ##### Papyrus VIP
 
