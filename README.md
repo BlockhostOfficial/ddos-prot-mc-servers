@@ -36,20 +36,6 @@ These are some dedicated server providers which come with good DDoS protection o
 ### DDoS Protection Service with a panel
 These services have an easy to use panel and they're the best option for most of servers. All servers with five stars have great protection and you won't have any challenges with DDoS attacks. What can vary from protection to protection is the distance from their servers to your server, as well as the stability and the ping of the connection for the players. Prioritize choosing close locations to your server and players, even at higher pricing. Best options, both free and paid, are NeoProtect, TCPShield and Infinity Filter.
 
-##### NeoProtect
-
-NeoProtect is a very stable service with lots of features, locations and fast suport.
-
-- [Website](https://neoprotect.net)
-- Locations: Germany, France, United Kingom, Spain, Romania, Poland, Netherlands, Hong Kong, Singapore, Tokyo, Chicago, New York, Ashburn, Miami, Los Angeles, Atlanta, Dallas, Seattle
-- Pricing type: Subscription
-- Supports Bedrock (Geyser): Yes
-- Free plan: Yes
-- Cheapest paid plan: €15 / mo.
-- Anti VPN: Yes
-- Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
-- Recommended: ⭐⭐⭐⭐⭐
-
 #### Infinity Filter
 
 I've been using Infinity Filter since it started and it's probably the most affordable and at the same time still a very reliable service.
@@ -60,6 +46,20 @@ I've been using Infinity Filter since it started and it's probably the most affo
 - Supports Bedrock (Geyser): Yes
 - Free plan: Yes
 - Cheapest paid plan: €2.99 / mo.
+- Anti VPN: Yes
+- Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
+- Recommended: ⭐⭐⭐⭐⭐
+
+##### NeoProtect
+
+NeoProtect is a very stable service with lots of features and fast suport.
+
+- [Website](https://neoprotect.net)
+- Locations: Germany, Vint Hill (US)
+- Pricing type: Subscription
+- Supports Bedrock (Geyser): Yes
+- Free plan: Yes
+- Cheapest paid plan: €15 / mo.
 - Anti VPN: Yes
 - Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
 - Recommended: ⭐⭐⭐⭐⭐
