@@ -28,15 +28,15 @@ If you have a private server for your friends, then you don't need any sort of D
 ### Dedicated Server Providers
 These are some dedicated server providers which come with good DDoS protection out of the box. If you get one of these, you likely won't need an additional provider.
 
-- [Tempest](https://tempest.net)
-- [CosmicGuard](https://cosmicguard.com)
-- [BerryByte](https://berrybyte.net)
-- [PufferFish](https://pufferfish.host)
+- [Tempest](https://enderdash.com/get-protection/tempest?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
+- [CosmicGuard](https://enderdash.com/get-protection/cosmic-guard?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
+- [BerryByte](https://enderdash.com/get-protection/berrybyte?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
+- [PufferFish](https://enderdash.com/get-protection/pufferfish-host?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
 
 ### DDoS Protection Service with a panel
 These services have an easy to use panel and they're the best option for most of servers. All servers with five stars have great protection and you won't have any challenges with DDoS attacks. What can vary from protection to protection is the distance from their servers to your server, as well as the stability and the ping of the connection for the players. Prioritize choosing close locations to your server and players, even at higher pricing. Best options, both free and paid, are NeoProtect, TCPShield and Infinity Filter.
 
-#### Infinity Filter
+#### [Infinity Filter](https://enderdash.com/get-protection/infinity-filter?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
 
 I've been using Infinity Filter since it started and it's probably the most affordable and at the same time still a very reliable service.
 
@@ -50,7 +50,7 @@ I've been using Infinity Filter since it started and it's probably the most affo
 - Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
 - Recommended: ⭐⭐⭐⭐⭐
 
-##### NeoProtect
+##### [NeoProtect](https://enderdash.com/get-protection/neoprotect?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
 
 NeoProtect is a very stable service with lots of features and fast suport.
 
@@ -64,7 +64,7 @@ NeoProtect is a very stable service with lots of features and fast suport.
 - Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
 - Recommended: ⭐⭐⭐⭐⭐
 
-##### TCPShield
+##### [TCPShield](https://enderdash.com/get-protection/tcpshield?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
 
 TCPShield is the most popular name when it comes to Minecraft DDoS protection, operating since 2015. It is a good reliable solution.
 
@@ -78,7 +78,7 @@ TCPShield is the most popular name when it comes to Minecraft DDoS protection, o
 - Proximity & Voice plugins: PlasmoVoice & SimpleVoiceChat
 - Recommended: ⭐⭐⭐⭐⭐
 
-#### CosmicGuard
+#### [CosmicGuard](https://enderdash.com/get-protection/cosmic-guard?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
 
 CosmicGuard is likely the most expensive service at scale, unless you get unlimited usage by getting a dedicated server with them.
 
@@ -92,7 +92,7 @@ CosmicGuard is likely the most expensive service at scale, unless you get unlimi
 - Proximity & Voice plugins: No
 - Recommended: ⭐⭐⭐
 
-##### Papyrus VIP
+##### [Papyrus VIP](https://enderdash.com/get-protection/papyrus-vip?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
 
 Papyrus is the only option that offers such many locations accessibly. Their filters can be also used to protect your website, voice chat, TeamSpeak, etc. However, in terms of stability it's not the most reliable.
 
@@ -106,17 +106,18 @@ Papyrus is the only option that offers such many locations accessibly. Their fil
 - Proximity & Voice plugins: Yes
 - Recommended: ⭐⭐⭐
 
-##### Arvoris
+##### [Arvoris](https://enderdash.com/get-protection/arvoris?utm_source=github&utm_medium=readme&utm_campaign=ddos-protection-guide)
 
-Arvoris is made by the Papyrus team. It is a new project, with the goal of offering unlimited usage DDoS protection for your Minecraft server at only $9.99 / month.
+Arvoris is Papyrus's budget-focused Minecraft reverse proxy. It combines Cloudflare Spectrum anycast with Cryo Layer 7 filtering, CryoLimbo verification, firewall rules, real client IP forwarding, load balancing, analytics and attack alerts.
 
 - [Website](https://arvor.is)
-- Locations: New York, Miami, Los Angeles, Frankfurt, Prague, Tokyo and Singapore
+- Locations: Miami, New York, Frankfurt, Warsaw, Tel Aviv, Singapore and Tokyo, backed by Cloudflare's global anycast network
 - Pricing type: Subscription
-- Supports Bedrock (Geyser): Yes
-- Free plan: No
-- Cheapest paid plan: $9.99 / mo.
-- Anti VPN: No
+- Supports Bedrock (Geyser): Not currently documented
+- Free plan: Yes, for one network, one backend and up to 15 players
+- Cheapest paid plan: $10 / mo.
+- EnderDash coupon: `ENDERDASH` for 10% off the first 3 months
+- Anti VPN: Yes
 - Proximity & Voice plugins: No
 - Recommended: ⭐⭐
 
