@@ -121,6 +121,20 @@ Arvoris is Papyrus's budget-focused Minecraft reverse proxy. It combines Cloudfl
 - Proximity & Voice plugins: No
 - Recommended: ⭐⭐
 
+##### [BlackProtect](https://blackprotect.net)
+
+BlackProtect is an eBPF/XDP kernel-level L3-L7 DDoS protection service built specifically for Minecraft infrastructure with sub-1ms latency overhead and native EU hosting.
+
+- [Website](https://blackprotect.net)
+- Locations: Germany (Frankfurt, Hamburg)
+- Pricing type: Subscription
+- Supports Bedrock (Geyser): Yes
+- Free plan: Yes (Pilot Access)
+- Cheapest paid plan: TBD / mo.
+- Anti VPN: Yes
+- Proximity & Voice plugins: Yes (PlasmoVoice & SimpleVoiceChat)
+- Recommended: ⭐⭐⭐⭐⭐
+
 ## Contact
 Leave a star and join our Discord if you've found this helpful!
 
